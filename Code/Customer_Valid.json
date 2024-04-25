@@ -1,0 +1,4002 @@
+﻿[
+  {
+    "vehicleId": "SK4523820602745727881887",
+    "latitude": 86.8332365824,
+    "longitude": -78.5162003456,
+    "city": "Mérignac",
+    "temperature": 82,
+    "speed": 191
+  },
+  {
+    "vehicleId": "SK7851674489654831567036",
+    "latitude": 87.02408448,
+    "longitude": 70.324859904,
+    "city": "Gojal Upper Hunza",
+    "temperature": 74,
+    "speed": 134
+  },
+  {
+    "vehicleId": "NO4282284605166",
+    "latitude": 66.308661248,
+    "longitude": -58.9180371968,
+    "city": "Quesada",
+    "temperature": 42,
+    "speed": 19
+  },
+  {
+    "vehicleId": "SE4921134610444927535635",
+    "latitude": -19.0043537408,
+    "longitude": 0.4779352064,
+    "city": "Palmerston North",
+    "temperature": 53,
+    "speed": 30
+  },
+  {
+    "vehicleId": "BA690856587741863998",
+    "latitude": -21.4350660608,
+    "longitude": 13.5298093056,
+    "city": "Rosenheim",
+    "temperature": 69,
+    "speed": 106
+  },
+  {
+    "vehicleId": "DE40855349321218362345",
+    "latitude": -21.1640337408,
+    "longitude": -117.9985813504,
+    "city": "Hamburg",
+    "temperature": 81,
+    "speed": 6
+  },
+  {
+    "vehicleId": "BH69821267259565146275",
+    "latitude": -75.0131175424,
+    "longitude": 54.805238784,
+    "city": "Bokaro Steel city",
+    "temperature": 2,
+    "speed": 78
+  },
+  {
+    "vehicleId": "MD3866221326811465224296",
+    "latitude": -73.4606915584,
+    "longitude": 136.0157340672,
+    "city": "Puerto Carreño",
+    "temperature": 12,
+    "speed": 67
+  },
+  {
+    "vehicleId": "DE03786818638712966122",
+    "latitude": -25.8941172736,
+    "longitude": -129.2286319616,
+    "city": "Oaxaca",
+    "temperature": 66,
+    "speed": 127
+  },
+  {
+    "vehicleId": "IS037532210815387453162466",
+    "latitude": -1.6272423936,
+    "longitude": 15.0625486848,
+    "city": "Sloten",
+    "temperature": 39,
+    "speed": 121
+  },
+  {
+    "vehicleId": "RS48787426464152171395",
+    "latitude": -30.937872384,
+    "longitude": -64.8372086784,
+    "city": "Galway",
+    "temperature": 6,
+    "speed": 39
+  },
+  {
+    "vehicleId": "RO48USTQ2096051634354441",
+    "latitude": -1.7858898944,
+    "longitude": 149.6742916096,
+    "city": "Larkana",
+    "temperature": 41,
+    "speed": 180
+  },
+  {
+    "vehicleId": "ES2828810426812528419659",
+    "latitude": -31.7556644864,
+    "longitude": -110.1643523072,
+    "city": "Tapachula",
+    "temperature": 57,
+    "speed": 75
+  },
+  {
+    "vehicleId": "LT065546633222964609",
+    "latitude": 26.2190603264,
+    "longitude": 101.091956736,
+    "city": "Rum",
+    "temperature": 94,
+    "speed": 102
+  },
+  {
+    "vehicleId": "CZ0821341364053570062841",
+    "latitude": -11.333233152,
+    "longitude": -178.9426663424,
+    "city": "Cajamarca",
+    "temperature": 25,
+    "speed": 128
+  },
+  {
+    "vehicleId": "PT38370327931619963487826",
+    "latitude": -69.082622464,
+    "longitude": -21.7071205376,
+    "city": "Gjoa Haven",
+    "temperature": 13,
+    "speed": 111
+  },
+  {
+    "vehicleId": "KZ080651266073326860",
+    "latitude": -80.8667268096,
+    "longitude": -116.6773230592,
+    "city": "Galway",
+    "temperature": 98,
+    "speed": 185
+  },
+  {
+    "vehicleId": "VG7263984008950831573020",
+    "latitude": -29.511777792,
+    "longitude": 41.7458968576,
+    "city": "Gansu",
+    "temperature": 96,
+    "speed": 152
+  },
+  {
+    "vehicleId": "BE60295908472462",
+    "latitude": -68.6005675008,
+    "longitude": -24.6587736064,
+    "city": "Cajamarca",
+    "temperature": 40,
+    "speed": 158
+  },
+  {
+    "vehicleId": "MT35NFCW44768677784456286607381",
+    "latitude": -62.7910636544,
+    "longitude": 50.047184384,
+    "city": "Chepstow",
+    "temperature": 56,
+    "speed": 59
+  },
+  {
+    "vehicleId": "PL35550337253927194359216187",
+    "latitude": 37.7586834432,
+    "longitude": 58.1352173568,
+    "city": "Istres",
+    "temperature": 30,
+    "speed": 58
+  },
+  {
+    "vehicleId": "MT18DTBM75823784405613595378530",
+    "latitude": -2.9235991552,
+    "longitude": 29.9368978432,
+    "city": "Concepción",
+    "temperature": 96,
+    "speed": 167
+  },
+  {
+    "vehicleId": "DK2775683280677383",
+    "latitude": -10.2944335872,
+    "longitude": -109.2449210368,
+    "city": "Reading",
+    "temperature": 60,
+    "speed": 147
+  },
+  {
+    "vehicleId": "CZ9377884703156533852653",
+    "latitude": 20.3050276864,
+    "longitude": 35.3226850304,
+    "city": "Toruń",
+    "temperature": 14,
+    "speed": 67
+  },
+  {
+    "vehicleId": "DO59844935611631542334763862",
+    "latitude": 25.7149092864,
+    "longitude": -149.1505984512,
+    "city": "Bydgoszcz",
+    "temperature": 92,
+    "speed": 63
+  },
+  {
+    "vehicleId": "RS92862067874427282832",
+    "latitude": 57.85819648,
+    "longitude": -74.483461632,
+    "city": "Aurillac",
+    "temperature": 43,
+    "speed": 198
+  },
+  {
+    "vehicleId": "AD7122542811223840712215",
+    "latitude": -52.8394386432,
+    "longitude": 20.9443163136,
+    "city": "Heilongjiang",
+    "temperature": 76,
+    "speed": 141
+  },
+  {
+    "vehicleId": "SI47766872888487620",
+    "latitude": -10.3925558272,
+    "longitude": -132.0061883392,
+    "city": "Queenstown",
+    "temperature": 44,
+    "speed": 187
+  },
+  {
+    "vehicleId": "ME40963938323665711752",
+    "latitude": 37.2548297728,
+    "longitude": 101.7119565824,
+    "city": "Sankt Johann im Pongau",
+    "temperature": 73,
+    "speed": 66
+  },
+  {
+    "vehicleId": "PL34983356473538728389516986",
+    "latitude": -77.6344923136,
+    "longitude": 71.8321502208,
+    "city": "Torghar",
+    "temperature": 50,
+    "speed": 13
+  },
+  {
+    "vehicleId": "AD8366944133571643517366",
+    "latitude": 66.09026304,
+    "longitude": 78.5480338432,
+    "city": "Geraldton-Greenough",
+    "temperature": 56,
+    "speed": 184
+  },
+  {
+    "vehicleId": "AD7530677756657125455217",
+    "latitude": -46.437935616,
+    "longitude": -80.1873293312,
+    "city": "Marcedusa",
+    "temperature": 87,
+    "speed": 51
+  },
+  {
+    "vehicleId": "SK6421142804146566344264",
+    "latitude": -72.5103574016,
+    "longitude": -158.9782565888,
+    "city": "Chongqing",
+    "temperature": 96,
+    "speed": 1
+  },
+  {
+    "vehicleId": "ME54957138635575826721",
+    "latitude": 13.4969942016,
+    "longitude": -167.3986137088,
+    "city": "Fort Worth",
+    "temperature": 11,
+    "speed": 37
+  },
+  {
+    "vehicleId": "GI54DCNW424723537783486",
+    "latitude": -28.3305259008,
+    "longitude": 169.1904681984,
+    "city": "São Gonçalo",
+    "temperature": 68,
+    "speed": 173
+  },
+  {
+    "vehicleId": "FI6413364780766284",
+    "latitude": 12.0795374592,
+    "longitude": -61.8967482368,
+    "city": "Bhilai",
+    "temperature": 54,
+    "speed": 25
+  },
+  {
+    "vehicleId": "CY06256977167299561236342716",
+    "latitude": -60.9763115008,
+    "longitude": -93.7595867136,
+    "city": "Rotem",
+    "temperature": 80,
+    "speed": 198
+  },
+  {
+    "vehicleId": "KZ034428925214747722",
+    "latitude": -89.2054849536,
+    "longitude": -172.989468672,
+    "city": "Taupo",
+    "temperature": 63,
+    "speed": 183
+  },
+  {
+    "vehicleId": "TN3057203617516569033428",
+    "latitude": 30.563378688,
+    "longitude": 68.963547136,
+    "city": "Vallentuna",
+    "temperature": 69,
+    "speed": 113
+  },
+  {
+    "vehicleId": "HU36124553737352754673193598",
+    "latitude": -76.5808217088,
+    "longitude": 4.5314796544,
+    "city": "San José de Alajuela",
+    "temperature": 52,
+    "speed": 165
+  },
+  {
+    "vehicleId": "SK7423855366856547766188",
+    "latitude": -72.9584985088,
+    "longitude": 99.2735495168,
+    "city": "Paulista",
+    "temperature": 39,
+    "speed": 73
+  },
+  {
+    "vehicleId": "MK41025890827221418",
+    "latitude": -84.9585660928,
+    "longitude": 125.2543157248,
+    "city": "Limón (Puerto Limón]",
+    "temperature": 29,
+    "speed": 190
+  },
+  {
+    "vehicleId": "BE62917069525244",
+    "latitude": -42.1129001984,
+    "longitude": 116.9352281088,
+    "city": "Talara",
+    "temperature": 73,
+    "speed": 171
+  },
+  {
+    "vehicleId": "CH7592147243316843141",
+    "latitude": -80.7827152896,
+    "longitude": 65.5487439872,
+    "city": "Gyeongju",
+    "temperature": 77,
+    "speed": 136
+  },
+  {
+    "vehicleId": "AZ87219080826336746433142484",
+    "latitude": -67.1913203712,
+    "longitude": -48.8976648192,
+    "city": "Stirling",
+    "temperature": 25,
+    "speed": 134
+  },
+  {
+    "vehicleId": "MK90497800442307294",
+    "latitude": -78.9919470592,
+    "longitude": 123.7435850752,
+    "city": "Cinco Esquinas",
+    "temperature": 47,
+    "speed": 20
+  },
+  {
+    "vehicleId": "LB42894874290045407249872664",
+    "latitude": -42.4035442688,
+    "longitude": -84.537012224,
+    "city": "Ørsta",
+    "temperature": 39,
+    "speed": 17
+  },
+  {
+    "vehicleId": "GI03KKAO791288887745856",
+    "latitude": 52.8445986816,
+    "longitude": -116.6197594112,
+    "city": "Bremerhaven",
+    "temperature": 52,
+    "speed": 188
+  },
+  {
+    "vehicleId": "AL60348886252163272122811748",
+    "latitude": -48.2685642752,
+    "longitude": -133.3372785664,
+    "city": "Rostock",
+    "temperature": 50,
+    "speed": 199
+  },
+  {
+    "vehicleId": "MR6988035763833615772548382",
+    "latitude": -9.8670011392,
+    "longitude": -49.4036273152,
+    "city": "Tampico",
+    "temperature": 57,
+    "speed": 43
+  },
+  {
+    "vehicleId": "AD5508633185761245137327",
+    "latitude": -21.5522510848,
+    "longitude": -9.4043711488,
+    "city": "Belfast",
+    "temperature": 83,
+    "speed": 73
+  },
+  {
+    "vehicleId": "MT46UBNT92312161274968595622247",
+    "latitude": -25.5915942912,
+    "longitude": 110.0073019392,
+    "city": "Shanghai",
+    "temperature": 85,
+    "speed": 93
+  },
+  {
+    "vehicleId": "RO92WBIN4914128114545657",
+    "latitude": 7.3074128896,
+    "longitude": 32.0572824576,
+    "city": "Murray Bridge",
+    "temperature": 4,
+    "speed": 157
+  },
+  {
+    "vehicleId": "PS442683327847324306749085293",
+    "latitude": 2.1218338816,
+    "longitude": -81.262808064,
+    "city": "Galway",
+    "temperature": 58,
+    "speed": 172
+  },
+  {
+    "vehicleId": "AL06801447805783051665280074",
+    "latitude": 35.5983524864,
+    "longitude": 136.0619006976,
+    "city": "Jambi",
+    "temperature": 21,
+    "speed": 119
+  },
+  {
+    "vehicleId": "SE4322951788957241686718",
+    "latitude": 25.7652560896,
+    "longitude": -139.6100801536,
+    "city": "Vezirköprü",
+    "temperature": 93,
+    "speed": 62
+  },
+  {
+    "vehicleId": "DO21644974987562939326442174",
+    "latitude": -50.5811083264,
+    "longitude": -7.073977856,
+    "city": "Frederikstad",
+    "temperature": 61,
+    "speed": 8
+  },
+  {
+    "vehicleId": "CZ3672221658145178644453",
+    "latitude": -69.0677538816,
+    "longitude": -5.5166342144,
+    "city": "Alphen aan den Rijn",
+    "temperature": 87,
+    "speed": 123
+  },
+  {
+    "vehicleId": "DE80806689746426327152",
+    "latitude": 15.3857078272,
+    "longitude": -175.3387534336,
+    "city": "Zamora de Hidalgo",
+    "temperature": 51,
+    "speed": 135
+  },
+  {
+    "vehicleId": "GE60371208623816040808",
+    "latitude": 83.991752704,
+    "longitude": 30.9715483648,
+    "city": "Pizzoferrato",
+    "temperature": 9,
+    "speed": 3
+  },
+  {
+    "vehicleId": "SM5146090069133581033754228",
+    "latitude": -42.2195549184,
+    "longitude": -132.1184934912,
+    "city": "Palakkad",
+    "temperature": 56,
+    "speed": 128
+  },
+  {
+    "vehicleId": "BH62487456231381107655",
+    "latitude": -25.0321932288,
+    "longitude": -85.2404205568,
+    "city": "Zierikzee",
+    "temperature": 68,
+    "speed": 15
+  },
+  {
+    "vehicleId": "FO5305893638131897",
+    "latitude": -70.0764653568,
+    "longitude": -160.512257024,
+    "city": "Lidingo",
+    "temperature": 79,
+    "speed": 146
+  },
+  {
+    "vehicleId": "AT034259735877252654",
+    "latitude": 2.9676300288,
+    "longitude": -47.8101464064,
+    "city": "Vialky",
+    "temperature": 27,
+    "speed": 44
+  },
+  {
+    "vehicleId": "PT95451208713177866234715",
+    "latitude": -54.7492450304,
+    "longitude": -83.1126592512,
+    "city": "Maunath Bhanjan",
+    "temperature": 63,
+    "speed": 136
+  },
+  {
+    "vehicleId": "ES2170787221143371443744",
+    "latitude": -62.9978303488,
+    "longitude": 114.6654524416,
+    "city": "Piotrków Trybunalski",
+    "temperature": 7,
+    "speed": 174
+  },
+  {
+    "vehicleId": "LT795767537662365606",
+    "latitude": 2.1936490496,
+    "longitude": 171.4112521216,
+    "city": "Höchst",
+    "temperature": 3,
+    "speed": 86
+  },
+  {
+    "vehicleId": "ES3718234375365266902488",
+    "latitude": -22.6469390336,
+    "longitude": 59.543540224,
+    "city": "Binjai",
+    "temperature": 63,
+    "speed": 52
+  },
+  {
+    "vehicleId": "FI1526438097278235",
+    "latitude": -89.6713765888,
+    "longitude": -77.7841092608,
+    "city": "Nicoya",
+    "temperature": 38,
+    "speed": 127
+  },
+  {
+    "vehicleId": "FR9759633173944815188083656",
+    "latitude": -72.9924706304,
+    "longitude": 5.9099076608,
+    "city": "Hanau",
+    "temperature": 98,
+    "speed": 165
+  },
+  {
+    "vehicleId": "SM6073142101126558649111582",
+    "latitude": 71.5397817344,
+    "longitude": 103.9645954048,
+    "city": "Melton",
+    "temperature": 23,
+    "speed": 128
+  },
+  {
+    "vehicleId": "AZ93825563336852301749134769",
+    "latitude": 3.281020928,
+    "longitude": -138.8739975168,
+    "city": "Oryol",
+    "temperature": 16,
+    "speed": 190
+  },
+  {
+    "vehicleId": "LV58MENQ8471945249271",
+    "latitude": 45.3671053312,
+    "longitude": -154.8886529024,
+    "city": "Jedburgh",
+    "temperature": 5,
+    "speed": 186
+  },
+  {
+    "vehicleId": "ES1787041075587162208231",
+    "latitude": -41.8895476736,
+    "longitude": -98.7678012416,
+    "city": "Toulouse",
+    "temperature": 20,
+    "speed": 192
+  },
+  {
+    "vehicleId": "TN4988675432580696220312",
+    "latitude": -18.1518364672,
+    "longitude": 135.6778800128,
+    "city": "Egersund",
+    "temperature": 81,
+    "speed": 150
+  },
+  {
+    "vehicleId": "AE988123818855446381076",
+    "latitude": -61.5013214208,
+    "longitude": 67.0393639936,
+    "city": "Caen",
+    "temperature": 1,
+    "speed": 77
+  },
+  {
+    "vehicleId": "IT781QKMCI86686703236262133",
+    "latitude": -38.2002180096,
+    "longitude": 18.865946624,
+    "city": "Prince Albert",
+    "temperature": 47,
+    "speed": 156
+  },
+  {
+    "vehicleId": "MD8375341023143556653591",
+    "latitude": 60.0565281792,
+    "longitude": -39.2355150848,
+    "city": "Ambon",
+    "temperature": 12,
+    "speed": 83
+  },
+  {
+    "vehicleId": "EE278089217027528537",
+    "latitude": -87.2593467392,
+    "longitude": 10.7642358784,
+    "city": "Canberra",
+    "temperature": 86,
+    "speed": 133
+  },
+  {
+    "vehicleId": "CH1716852785093738644",
+    "latitude": -49.1499193344,
+    "longitude": 85.990676992,
+    "city": "Tintigny",
+    "temperature": 80,
+    "speed": 148
+  },
+  {
+    "vehicleId": "MR8633426836466641698251349",
+    "latitude": 14.140607488,
+    "longitude": 108.7581635584,
+    "city": "Ockelbo",
+    "temperature": 3,
+    "speed": 70
+  },
+  {
+    "vehicleId": "MU3130577176115237554376379326",
+    "latitude": -51.788168192,
+    "longitude": -67.6276427776,
+    "city": "Szczecin",
+    "temperature": 93,
+    "speed": 173
+  },
+  {
+    "vehicleId": "CH8672136484837788473",
+    "latitude": -24.4346850304,
+    "longitude": -1.8979129344,
+    "city": "Los Ángeles",
+    "temperature": 66,
+    "speed": 135
+  },
+  {
+    "vehicleId": "CH1357760302154736555",
+    "latitude": 69.1908808704,
+    "longitude": -69.7364120576,
+    "city": "Agartala",
+    "temperature": 39,
+    "speed": 126
+  },
+  {
+    "vehicleId": "IL154365794646536761425",
+    "latitude": -61.3946374144,
+    "longitude": 87.15401984,
+    "city": "Gresham",
+    "temperature": 72,
+    "speed": 94
+  },
+  {
+    "vehicleId": "AZ51884229689345351144154623",
+    "latitude": -59.527085568,
+    "longitude": 71.393028608,
+    "city": "Napier",
+    "temperature": 60,
+    "speed": 186
+  },
+  {
+    "vehicleId": "MR8548233526855920790547711",
+    "latitude": -28.7571900416,
+    "longitude": -63.2271889408,
+    "city": "Gangneung",
+    "temperature": 85,
+    "speed": 145
+  },
+  {
+    "vehicleId": "CH7748191884210471261",
+    "latitude": 8.95032832,
+    "longitude": -10.9311538176,
+    "city": "Macau",
+    "temperature": 66,
+    "speed": 43
+  },
+  {
+    "vehicleId": "VG4182855564220591728826",
+    "latitude": 66.8393005056,
+    "longitude": -94.67551488,
+    "city": "Tierra Amarilla",
+    "temperature": 3,
+    "speed": 101
+  },
+  {
+    "vehicleId": "HR2709867578071398118",
+    "latitude": -72.8842237952,
+    "longitude": 152.5450279936,
+    "city": "Watson Lake",
+    "temperature": 90,
+    "speed": 7
+  },
+  {
+    "vehicleId": "MT29AGTX15619972123914134713415",
+    "latitude": -63.895973376,
+    "longitude": 101.8860914688,
+    "city": "Oryol",
+    "temperature": 84,
+    "speed": 105
+  },
+  {
+    "vehicleId": "CY92716234794535781632634981",
+    "latitude": -1.7753957376,
+    "longitude": 78.0640415744,
+    "city": "Lauder",
+    "temperature": 46,
+    "speed": 188
+  },
+  {
+    "vehicleId": "GL0911514512487692",
+    "latitude": 18.3520456704,
+    "longitude": -109.737319936,
+    "city": "Zamora de Hidalgo",
+    "temperature": 64,
+    "speed": 80
+  },
+  {
+    "vehicleId": "RS97923318457525286157",
+    "latitude": 81.085932544,
+    "longitude": 103.9971418112,
+    "city": "Tver",
+    "temperature": 24,
+    "speed": 46
+  },
+  {
+    "vehicleId": "SI47226037202561435",
+    "latitude": 41.4064515072,
+    "longitude": 105.5740092416,
+    "city": "Finspång",
+    "temperature": 14,
+    "speed": 153
+  },
+  {
+    "vehicleId": "AD2532277930243388363671",
+    "latitude": -3.8107743232,
+    "longitude": -166.1444068352,
+    "city": "Habay-la-Vieille",
+    "temperature": 64,
+    "speed": 2
+  },
+  {
+    "vehicleId": "IT331LUQHI11793938973473145",
+    "latitude": -44.5549195264,
+    "longitude": 110.6583402496,
+    "city": "Toruń",
+    "temperature": 8,
+    "speed": 168
+  },
+  {
+    "vehicleId": "NO1618757758484",
+    "latitude": 89.0022920192,
+    "longitude": -142.7852225536,
+    "city": "Barra do Corda",
+    "temperature": 90,
+    "speed": 18
+  },
+  {
+    "vehicleId": "FR6161788538712832332610912",
+    "latitude": 46.356728832,
+    "longitude": 173.5387142144,
+    "city": "Kharan",
+    "temperature": 36,
+    "speed": 160
+  },
+  {
+    "vehicleId": "BH27682176724546273780",
+    "latitude": -51.8180455424,
+    "longitude": 120.5690759168,
+    "city": "Leirvik",
+    "temperature": 64,
+    "speed": 78
+  },
+  {
+    "vehicleId": "IE61XLRQ55125186443533",
+    "latitude": 14.2285709312,
+    "longitude": 72.4362063872,
+    "city": "Booischot",
+    "temperature": 77,
+    "speed": 194
+  },
+  {
+    "vehicleId": "BH49431665523675863428",
+    "latitude": 10.75485696,
+    "longitude": 89.6955375616,
+    "city": "Köflach",
+    "temperature": 55,
+    "speed": 92
+  },
+  {
+    "vehicleId": "TN5269381492737261310366",
+    "latitude": -87.9949264896,
+    "longitude": 31.5110708224,
+    "city": "Bolton",
+    "temperature": 30,
+    "speed": 27
+  },
+  {
+    "vehicleId": "LB55892680877845334601176064",
+    "latitude": -45.5838488576,
+    "longitude": -161.2957918208,
+    "city": "Koszalin",
+    "temperature": 86,
+    "speed": 170
+  },
+  {
+    "vehicleId": "SI75174672378572885",
+    "latitude": -27.101288448,
+    "longitude": -148.7370189824,
+    "city": "Chagai",
+    "temperature": 100,
+    "speed": 180
+  },
+  {
+    "vehicleId": "MU1246035528736240413986664714",
+    "latitude": 47.7502415872,
+    "longitude": -73.8575812608,
+    "city": "Gwangyang",
+    "temperature": 70,
+    "speed": 62
+  },
+  {
+    "vehicleId": "PK6149311782565274232445",
+    "latitude": -56.4094808064,
+    "longitude": 115.0765389824,
+    "city": "Dubuisson",
+    "temperature": 48,
+    "speed": 97
+  },
+  {
+    "vehicleId": "MC4906784738403851754342401",
+    "latitude": 80.7888661504,
+    "longitude": 150.7010842624,
+    "city": "Palma de Mallorca",
+    "temperature": 27,
+    "speed": 40
+  },
+  {
+    "vehicleId": "PT82159323174585235227774",
+    "latitude": 7.0546512896,
+    "longitude": -129.4080335872,
+    "city": "Akron",
+    "temperature": 25,
+    "speed": 34
+  },
+  {
+    "vehicleId": "DO07869828567159040663987425",
+    "latitude": 87.046251008,
+    "longitude": 175.302921728,
+    "city": "Épernay",
+    "temperature": 34,
+    "speed": 6
+  },
+  {
+    "vehicleId": "PK7788954697682688335994",
+    "latitude": 25.3479617536,
+    "longitude": 129.5168574464,
+    "city": "Sosnowiec",
+    "temperature": 43,
+    "speed": 130
+  },
+  {
+    "vehicleId": "IL263384495125156378331",
+    "latitude": -71.7886294016,
+    "longitude": 80.1607341056,
+    "city": "Sluis",
+    "temperature": 40,
+    "speed": 98
+  },
+  {
+    "vehicleId": "HR9322351795524244135",
+    "latitude": 52.4100511744,
+    "longitude": 157.1018146816,
+    "city": "Luton",
+    "temperature": 91,
+    "speed": 178
+  },
+  {
+    "vehicleId": "CH4689521006281778132",
+    "latitude": 14.5410638848,
+    "longitude": -35.7193372672,
+    "city": "Villers-la-Loue",
+    "temperature": 25,
+    "speed": 41
+  },
+  {
+    "vehicleId": "MD6384772933947662747692",
+    "latitude": 10.3511056384,
+    "longitude": 10.4158731264,
+    "city": "Guntur",
+    "temperature": 9,
+    "speed": 0
+  },
+  {
+    "vehicleId": "BE40875822362692",
+    "latitude": 15.5613103104,
+    "longitude": -29.0406642688,
+    "city": "Arequipa",
+    "temperature": 51,
+    "speed": 196
+  },
+  {
+    "vehicleId": "BA356569524358553807",
+    "latitude": -58.4334078976,
+    "longitude": -62.3268952064,
+    "city": "Płock",
+    "temperature": 92,
+    "speed": 70
+  },
+  {
+    "vehicleId": "MK59897314633744061",
+    "latitude": 70.855327744,
+    "longitude": -51.879375872,
+    "city": "Bitung",
+    "temperature": 26,
+    "speed": 152
+  },
+  {
+    "vehicleId": "DE15167156456369157185",
+    "latitude": 6.035296768,
+    "longitude": 53.0463893504,
+    "city": "Staßfurt",
+    "temperature": 51,
+    "speed": 127
+  },
+  {
+    "vehicleId": "GR1425329811623622278834787",
+    "latitude": 39.1435061248,
+    "longitude": -41.9741490176,
+    "city": "Gwangyang",
+    "temperature": 90,
+    "speed": 12
+  },
+  {
+    "vehicleId": "AZ75574963061398146159326582",
+    "latitude": 63.18434816,
+    "longitude": -67.1896395776,
+    "city": "Palopo",
+    "temperature": 1,
+    "speed": 151
+  },
+  {
+    "vehicleId": "SM0746437141322771174482154",
+    "latitude": -51.450417664,
+    "longitude": -10.069822976,
+    "city": "Challand-Saint-Victor",
+    "temperature": 28,
+    "speed": 82
+  },
+  {
+    "vehicleId": "PT33386421228851057335718",
+    "latitude": 70.117807616,
+    "longitude": -73.448246272,
+    "city": "Paranaguá",
+    "temperature": 99,
+    "speed": 142
+  },
+  {
+    "vehicleId": "IT714KHNYI74233583972501308",
+    "latitude": -43.488566272,
+    "longitude": -88.868095488,
+    "city": "Binjai",
+    "temperature": 79,
+    "speed": 5
+  },
+  {
+    "vehicleId": "PT52118756776112263281609",
+    "latitude": -62.4111167488,
+    "longitude": -167.7994064896,
+    "city": "Sint-Pieters-Woluwe",
+    "temperature": 57,
+    "speed": 165
+  },
+  {
+    "vehicleId": "IS896854656190076687326712",
+    "latitude": -5.5176398848,
+    "longitude": -59.1684516864,
+    "city": "Vologda",
+    "temperature": 98,
+    "speed": 35
+  },
+  {
+    "vehicleId": "HR4569873095113951051",
+    "latitude": -59.3022889984,
+    "longitude": -165.2239269888,
+    "city": "Cork",
+    "temperature": 57,
+    "speed": 36
+  },
+  {
+    "vehicleId": "MD1027147635972453244563",
+    "latitude": 56.7354356736,
+    "longitude": 131.3885033472,
+    "city": "Ryazan",
+    "temperature": 77,
+    "speed": 36
+  },
+  {
+    "vehicleId": "IS177956273415711405735748",
+    "latitude": -38.7722253312,
+    "longitude": -111.0799644672,
+    "city": "Bayeux",
+    "temperature": 49,
+    "speed": 178
+  },
+  {
+    "vehicleId": "GR2982869287157626203055446",
+    "latitude": 30.6146869248,
+    "longitude": -143.5152405504,
+    "city": "Seogwipo",
+    "temperature": 94,
+    "speed": 158
+  },
+  {
+    "vehicleId": "EE671814297135902764",
+    "latitude": 49.8462249984,
+    "longitude": -69.3073553408,
+    "city": "Herk-de-Stad",
+    "temperature": 22,
+    "speed": 166
+  },
+  {
+    "vehicleId": "CY07669697376713839631427283",
+    "latitude": 61.5428646912,
+    "longitude": -160.9089554432,
+    "city": "Greater Hobart",
+    "temperature": 97,
+    "speed": 75
+  },
+  {
+    "vehicleId": "IT657IDMGI18488812773553847",
+    "latitude": -2.3962930176,
+    "longitude": -49.0826580992,
+    "city": "Bastia",
+    "temperature": 47,
+    "speed": 75
+  },
+  {
+    "vehicleId": "NL42CJML7865232321",
+    "latitude": 26.6513625088,
+    "longitude": 162.7176065024,
+    "city": "Pacasmayo",
+    "temperature": 74,
+    "speed": 174
+  },
+  {
+    "vehicleId": "PT91645787372139167166407",
+    "latitude": 23.7243097088,
+    "longitude": 173.447413248,
+    "city": "Cartago",
+    "temperature": 91,
+    "speed": 75
+  },
+  {
+    "vehicleId": "MC1315114672470486095561247",
+    "latitude": -0.6138578944,
+    "longitude": 46.96475648,
+    "city": "Tampico",
+    "temperature": 0,
+    "speed": 3
+  },
+  {
+    "vehicleId": "BH58113673623225491524",
+    "latitude": 13.6407988224,
+    "longitude": -9.4700305408,
+    "city": "Cuernavaca",
+    "temperature": 67,
+    "speed": 143
+  },
+  {
+    "vehicleId": "LB45318126614013177284374730",
+    "latitude": 73.318505472,
+    "longitude": 132.4759902208,
+    "city": "Jönköping",
+    "temperature": 15,
+    "speed": 108
+  },
+  {
+    "vehicleId": "GT59274596411392806607275117",
+    "latitude": 71.8452818944,
+    "longitude": 52.8044821504,
+    "city": "Charlottetown",
+    "temperature": 32,
+    "speed": 54
+  },
+  {
+    "vehicleId": "MC0925742125522845524968064",
+    "latitude": 35.6891286528,
+    "longitude": 43.999666176,
+    "city": "Bracknell",
+    "temperature": 46,
+    "speed": 46
+  },
+  {
+    "vehicleId": "GR2967465935959241921250769",
+    "latitude": -82.9788105728,
+    "longitude": 162.1855572992,
+    "city": "Canberra",
+    "temperature": 77,
+    "speed": 153
+  },
+  {
+    "vehicleId": "MU6732121754341667764745691509",
+    "latitude": 16.9452177408,
+    "longitude": 27.5224244224,
+    "city": "Oslo",
+    "temperature": 58,
+    "speed": 3
+  },
+  {
+    "vehicleId": "BE32513577145273",
+    "latitude": 31.1667464192,
+    "longitude": 70.5990695936,
+    "city": "São José dos Pinhais",
+    "temperature": 21,
+    "speed": 158
+  },
+  {
+    "vehicleId": "AZ18843688207343453747627554",
+    "latitude": 22.2161258496,
+    "longitude": -115.6170701824,
+    "city": "Oaxaca",
+    "temperature": 43,
+    "speed": 125
+  },
+  {
+    "vehicleId": "FI5817141159554249",
+    "latitude": -69.5900269568,
+    "longitude": -162.1411126272,
+    "city": "Muzaffargarh",
+    "temperature": 8,
+    "speed": 38
+  },
+  {
+    "vehicleId": "TR401364781734818767018324",
+    "latitude": 64.3187239936,
+    "longitude": -94.5342241792,
+    "city": "Wernigerode",
+    "temperature": 37,
+    "speed": 120
+  },
+  {
+    "vehicleId": "CR3226203976655040066",
+    "latitude": 12.3619250176,
+    "longitude": 78.1056735232,
+    "city": "Macau",
+    "temperature": 16,
+    "speed": 47
+  },
+  {
+    "vehicleId": "EE105765852718654557",
+    "latitude": 1.2049266688,
+    "longitude": -118.6524246016,
+    "city": "Murree",
+    "temperature": 30,
+    "speed": 141
+  },
+  {
+    "vehicleId": "GL1286577813450727",
+    "latitude": -6.39853056,
+    "longitude": 75.6390628352,
+    "city": "Radom",
+    "temperature": 31,
+    "speed": 104
+  },
+  {
+    "vehicleId": "SK9277419948810374344496",
+    "latitude": -34.188883456,
+    "longitude": 59.91944704,
+    "city": "Galway",
+    "temperature": 52,
+    "speed": 187
+  },
+  {
+    "vehicleId": "IE97JMXL76874336144164",
+    "latitude": -63.3063394304,
+    "longitude": -19.8543551488,
+    "city": "Logroño",
+    "temperature": 16,
+    "speed": 110
+  },
+  {
+    "vehicleId": "CH9775471023375932331",
+    "latitude": -88.7183904768,
+    "longitude": -175.0572916736,
+    "city": "Shimla",
+    "temperature": 59,
+    "speed": 109
+  },
+  {
+    "vehicleId": "GE03862633264625891277",
+    "latitude": -45.8172747776,
+    "longitude": -139.779347456,
+    "city": "Bagh",
+    "temperature": 30,
+    "speed": 87
+  },
+  {
+    "vehicleId": "CH5015220297032296241",
+    "latitude": -6.3525796864,
+    "longitude": 138.316864,
+    "city": "Trà Vinh",
+    "temperature": 14,
+    "speed": 10
+  },
+  {
+    "vehicleId": "EE701614078648652941",
+    "latitude": -63.0112974848,
+    "longitude": -87.9981056,
+    "city": "San Andrés",
+    "temperature": 45,
+    "speed": 189
+  },
+  {
+    "vehicleId": "RS20672766147823275731",
+    "latitude": 7.9334362112,
+    "longitude": -53.2590339072,
+    "city": "Tirupati",
+    "temperature": 14,
+    "speed": 51
+  },
+  {
+    "vehicleId": "BA958785254983255752",
+    "latitude": -72.9585788928,
+    "longitude": -98.2946147328,
+    "city": "Devonport",
+    "temperature": 17,
+    "speed": 33
+  },
+  {
+    "vehicleId": "CZ3198425257762413719866",
+    "latitude": 22.2573725696,
+    "longitude": 156.1044913152,
+    "city": "Quickborn",
+    "temperature": 5,
+    "speed": 17
+  },
+  {
+    "vehicleId": "PT71739015634781838377455",
+    "latitude": -26.6024244224,
+    "longitude": -76.545224704,
+    "city": "Thủ Dầu Một",
+    "temperature": 3,
+    "speed": 143
+  },
+  {
+    "vehicleId": "FO5747282713714372",
+    "latitude": 39.9701000192,
+    "longitude": 80.8050992128,
+    "city": "Tavigny",
+    "temperature": 54,
+    "speed": 124
+  },
+  {
+    "vehicleId": "FO9766424169456976",
+    "latitude": 25.4193934336,
+    "longitude": -114.2053530624,
+    "city": "Santa Coloma de Gramenet",
+    "temperature": 92,
+    "speed": 133
+  },
+  {
+    "vehicleId": "EE718127350876538849",
+    "latitude": -70.7247755264,
+    "longitude": 11.8600305664,
+    "city": "Fredericton",
+    "temperature": 51,
+    "speed": 128
+  },
+  {
+    "vehicleId": "IS118566083592134393251031",
+    "latitude": -2.8028025856,
+    "longitude": -42.0131955712,
+    "city": "Orizaba",
+    "temperature": 54,
+    "speed": 120
+  },
+  {
+    "vehicleId": "DO16355725819278780493013620",
+    "latitude": -76.3781536768,
+    "longitude": 91.7120943104,
+    "city": "Luton",
+    "temperature": 56,
+    "speed": 68
+  },
+  {
+    "vehicleId": "SM6751372881221893722524867",
+    "latitude": -2.2463246336,
+    "longitude": 90.8262701056,
+    "city": "Puerto Carreño",
+    "temperature": 45,
+    "speed": 88
+  },
+  {
+    "vehicleId": "AD1952473829414594588771",
+    "latitude": -48.9475995648,
+    "longitude": -115.2353025024,
+    "city": "Nghĩa Lộ",
+    "temperature": 36,
+    "speed": 3
+  },
+  {
+    "vehicleId": "GL9862177355263236",
+    "latitude": -39.7840191488,
+    "longitude": 148.3562207232,
+    "city": "Pontevedra",
+    "temperature": 68,
+    "speed": 8
+  },
+  {
+    "vehicleId": "FO6562204312522384",
+    "latitude": 35.2847838208,
+    "longitude": -81.5207814144,
+    "city": "Ivanovo",
+    "temperature": 83,
+    "speed": 98
+  },
+  {
+    "vehicleId": "LB61094900214825440264458832",
+    "latitude": 18.16704,
+    "longitude": -104.196828672,
+    "city": "Zielona Góra",
+    "temperature": 60,
+    "speed": 66
+  },
+  {
+    "vehicleId": "BE25263520883423",
+    "latitude": 51.801425408,
+    "longitude": 129.5843465216,
+    "city": "Frankfort",
+    "temperature": 0,
+    "speed": 33
+  },
+  {
+    "vehicleId": "AT694523262698646114",
+    "latitude": 17.3062895616,
+    "longitude": 35.9591473152,
+    "city": "Tampico",
+    "temperature": 44,
+    "speed": 70
+  },
+  {
+    "vehicleId": "SI71117557269483817",
+    "latitude": -28.1552909312,
+    "longitude": -33.7547352064,
+    "city": "Otukpo",
+    "temperature": 63,
+    "speed": 199
+  },
+  {
+    "vehicleId": "IL469555008122306431466",
+    "latitude": -39.2696327168,
+    "longitude": -71.9206501376,
+    "city": "Poznań",
+    "temperature": 38,
+    "speed": 34
+  },
+  {
+    "vehicleId": "ES6071477544727334153885",
+    "latitude": -3.538016256,
+    "longitude": -38.165717504,
+    "city": "Leersum",
+    "temperature": 50,
+    "speed": 35
+  },
+  {
+    "vehicleId": "NO8143733893785",
+    "latitude": 46.3053533184,
+    "longitude": 103.1924954112,
+    "city": "Szczecin",
+    "temperature": 83,
+    "speed": 195
+  },
+  {
+    "vehicleId": "IL736524828811781092618",
+    "latitude": 33.6557933568,
+    "longitude": 100.0473674752,
+    "city": "Kailua",
+    "temperature": 73,
+    "speed": 156
+  },
+  {
+    "vehicleId": "SI18789909974573816",
+    "latitude": 22.628419584,
+    "longitude": -149.4498347008,
+    "city": "Manfredonia",
+    "temperature": 70,
+    "speed": 93
+  },
+  {
+    "vehicleId": "SE7684626456812977016046",
+    "latitude": 51.6801913856,
+    "longitude": -111.382745088,
+    "city": "Cisnes",
+    "temperature": 72,
+    "speed": 86
+  },
+  {
+    "vehicleId": "BG74TQSH73197267880111",
+    "latitude": -27.5367887872,
+    "longitude": -35.1020882944,
+    "city": "Swat",
+    "temperature": 82,
+    "speed": 10
+  },
+  {
+    "vehicleId": "AZ44142235333968486365327875",
+    "latitude": 70.8137696256,
+    "longitude": 73.4399649792,
+    "city": "Celaya",
+    "temperature": 18,
+    "speed": 18
+  },
+  {
+    "vehicleId": "LU864555697683637493",
+    "latitude": -75.7614555136,
+    "longitude": -119.4281010176,
+    "city": "Emmen",
+    "temperature": 96,
+    "speed": 12
+  },
+  {
+    "vehicleId": "NO4083362337282",
+    "latitude": 36.8437788672,
+    "longitude": -69.4296103936,
+    "city": "Qinghai",
+    "temperature": 85,
+    "speed": 32
+  },
+  {
+    "vehicleId": "VG9827335138417774145344",
+    "latitude": 30.22127104,
+    "longitude": 166.2085564416,
+    "city": "Gunsan",
+    "temperature": 98,
+    "speed": 113
+  },
+  {
+    "vehicleId": "ME73142661713432714923",
+    "latitude": -76.9484286976,
+    "longitude": 88.8452921344,
+    "city": "Acapulco",
+    "temperature": 19,
+    "speed": 51
+  },
+  {
+    "vehicleId": "LI1792255537403706976",
+    "latitude": 54.527407616,
+    "longitude": -37.78712832,
+    "city": "Otukpo",
+    "temperature": 36,
+    "speed": 32
+  },
+  {
+    "vehicleId": "LB13925347471502775493655886",
+    "latitude": -6.5449576448,
+    "longitude": -119.1065931776,
+    "city": "Dera Ghazi Khan",
+    "temperature": 37,
+    "speed": 26
+  },
+  {
+    "vehicleId": "NO4241142811378",
+    "latitude": 22.1375748096,
+    "longitude": 114.4669130752,
+    "city": "Grand-Leez",
+    "temperature": 63,
+    "speed": 162
+  },
+  {
+    "vehicleId": "SI73121253816435498",
+    "latitude": -3.8869884928,
+    "longitude": -25.7250977792,
+    "city": "Ningxia",
+    "temperature": 78,
+    "speed": 58
+  },
+  {
+    "vehicleId": "CH9006635215947619240",
+    "latitude": -12.1868961792,
+    "longitude": -149.444056576,
+    "city": "Cartago",
+    "temperature": 12,
+    "speed": 54
+  },
+  {
+    "vehicleId": "SE0653324119683475981797",
+    "latitude": -45.9823049728,
+    "longitude": 50.1526966272,
+    "city": "Hunan",
+    "temperature": 11,
+    "speed": 127
+  },
+  {
+    "vehicleId": "BA308732834852123788",
+    "latitude": 88.2801757184,
+    "longitude": -152.56030208,
+    "city": "Trần Cao",
+    "temperature": 100,
+    "speed": 12
+  },
+  {
+    "vehicleId": "NL36OGNQ1561435707",
+    "latitude": -23.266539008,
+    "longitude": -89.8321558528,
+    "city": "Bhubaneswar",
+    "temperature": 19,
+    "speed": 190
+  },
+  {
+    "vehicleId": "MU1265066655883354384228452835",
+    "latitude": 37.2780407808,
+    "longitude": 124.4827268096,
+    "city": "Sunset Point",
+    "temperature": 86,
+    "speed": 3
+  },
+  {
+    "vehicleId": "PL73716088835918602352123136",
+    "latitude": -44.7696909312,
+    "longitude": 112.3621705728,
+    "city": "Onitsha",
+    "temperature": 79,
+    "speed": 189
+  },
+  {
+    "vehicleId": "IT108YNJGI68927244742385585",
+    "latitude": 14.5581745152,
+    "longitude": 101.0681938944,
+    "city": "Canberra",
+    "temperature": 56,
+    "speed": 132
+  },
+  {
+    "vehicleId": "GL9130557605771032",
+    "latitude": 11.3718745088,
+    "longitude": 118.2181054464,
+    "city": "Paraíso",
+    "temperature": 36,
+    "speed": 45
+  },
+  {
+    "vehicleId": "LI1781387248306142374",
+    "latitude": 59.1475059712,
+    "longitude": -0.5780054016,
+    "city": "Tierralta",
+    "temperature": 27,
+    "speed": 178
+  },
+  {
+    "vehicleId": "SI02583961648298498",
+    "latitude": 69.1253175296,
+    "longitude": 100.40389632,
+    "city": "Tomohon",
+    "temperature": 24,
+    "speed": 117
+  },
+  {
+    "vehicleId": "PK3697581357732385477950",
+    "latitude": 71.3140529152,
+    "longitude": 124.699758592,
+    "city": "Daman",
+    "temperature": 37,
+    "speed": 119
+  },
+  {
+    "vehicleId": "ME61168396673334535285",
+    "latitude": -52.7898637312,
+    "longitude": -46.5755210752,
+    "city": "Barranca",
+    "temperature": 13,
+    "speed": 88
+  },
+  {
+    "vehicleId": "KW5603463887830484515933544289",
+    "latitude": -72.406651904,
+    "longitude": -113.0024782848,
+    "city": "Watson Lake",
+    "temperature": 21,
+    "speed": 144
+  },
+  {
+    "vehicleId": "ME64664345847229619274",
+    "latitude": -44.423894528,
+    "longitude": 140.6784529408,
+    "city": "Laarne",
+    "temperature": 22,
+    "speed": 144
+  },
+  {
+    "vehicleId": "MT97NCVC75654814388581576560244",
+    "latitude": 24.8844630016,
+    "longitude": 141.2436519936,
+    "city": "Asan",
+    "temperature": 38,
+    "speed": 190
+  },
+  {
+    "vehicleId": "SI37774187533456158",
+    "latitude": 42.2639747072,
+    "longitude": -80.7407517696,
+    "city": "Siegendorf",
+    "temperature": 14,
+    "speed": 32
+  },
+  {
+    "vehicleId": "IS074204629487044200222230",
+    "latitude": -32.587923968,
+    "longitude": 21.4729326592,
+    "city": "San Nicolás de los Garza",
+    "temperature": 58,
+    "speed": 114
+  },
+  {
+    "vehicleId": "DE51641378337744916629",
+    "latitude": 36.4876004352,
+    "longitude": 43.8785207296,
+    "city": "Suwałki",
+    "temperature": 78,
+    "speed": 153
+  },
+  {
+    "vehicleId": "GB22RHWM39387750467768",
+    "latitude": -86.5762748416,
+    "longitude": 168.5851373568,
+    "city": "Daejeon",
+    "temperature": 3,
+    "speed": 152
+  },
+  {
+    "vehicleId": "CY40686153839177553655573184",
+    "latitude": -49.3419214848,
+    "longitude": 6.9065076736,
+    "city": "Gongju",
+    "temperature": 49,
+    "speed": 18
+  },
+  {
+    "vehicleId": "MT23EHAU06550777158281423261696",
+    "latitude": -3.0049801216,
+    "longitude": 58.6980345856,
+    "city": "Anseong",
+    "temperature": 78,
+    "speed": 124
+  },
+  {
+    "vehicleId": "AZ30330771544786383571835442",
+    "latitude": 35.0579178496,
+    "longitude": 71.9985009664,
+    "city": "Nässjö",
+    "temperature": 71,
+    "speed": 158
+  },
+  {
+    "vehicleId": "FR6809345955624306026190025",
+    "latitude": -76.0732612608,
+    "longitude": -132.4386618368,
+    "city": "Kirkwall",
+    "temperature": 1,
+    "speed": 77
+  },
+  {
+    "vehicleId": "LU574413324257071973",
+    "latitude": 69.3969615872,
+    "longitude": -16.3360384,
+    "city": "Tullibody",
+    "temperature": 62,
+    "speed": 46
+  },
+  {
+    "vehicleId": "FO1821497125118884",
+    "latitude": -48.0558583808,
+    "longitude": 69.1194102784,
+    "city": "Sapele",
+    "temperature": 10,
+    "speed": 72
+  },
+  {
+    "vehicleId": "CR2643708072644567634",
+    "latitude": 22.9492199424,
+    "longitude": 148.7884412928,
+    "city": "Padang Sidempuan",
+    "temperature": 47,
+    "speed": 167
+  },
+  {
+    "vehicleId": "VG6416836425281648700842",
+    "latitude": 86.7124635648,
+    "longitude": 88.8665919488,
+    "city": "Schweinfurt",
+    "temperature": 24,
+    "speed": 0
+  },
+  {
+    "vehicleId": "IE91WVFK71767356368975",
+    "latitude": 32.2386055168,
+    "longitude": 102.1141799936,
+    "city": "Pike Creek",
+    "temperature": 37,
+    "speed": 66
+  },
+  {
+    "vehicleId": "MU9701517852487753311017174270",
+    "latitude": -51.0419371008,
+    "longitude": -86.1506335744,
+    "city": "Thanh Hóa",
+    "temperature": 38,
+    "speed": 113
+  },
+  {
+    "vehicleId": "DE89191131811800054619",
+    "latitude": 16.3308739584,
+    "longitude": -0.1217651712,
+    "city": "Rockingham",
+    "temperature": 32,
+    "speed": 151
+  },
+  {
+    "vehicleId": "SA2845423217375712275640",
+    "latitude": 69.9072728064,
+    "longitude": 64.7040738304,
+    "city": "Hwaseong",
+    "temperature": 27,
+    "speed": 125
+  },
+  {
+    "vehicleId": "HR4046172771586211070",
+    "latitude": -21.5302597632,
+    "longitude": -51.3275850752,
+    "city": "Solingen",
+    "temperature": 43,
+    "speed": 57
+  },
+  {
+    "vehicleId": "DK8163435839344721",
+    "latitude": -33.6023837696,
+    "longitude": 31.4571454464,
+    "city": "Teruel",
+    "temperature": 23,
+    "speed": 129
+  },
+  {
+    "vehicleId": "NL91ODXS8137855701",
+    "latitude": -85.7304864768,
+    "longitude": 94.8217674752,
+    "city": "Chitral",
+    "temperature": 64,
+    "speed": 98
+  },
+  {
+    "vehicleId": "DO51892875895641356471298112",
+    "latitude": 74.087315968,
+    "longitude": -12.9000794112,
+    "city": "Novodvinsk",
+    "temperature": 85,
+    "speed": 190
+  },
+  {
+    "vehicleId": "MK72423855177798014",
+    "latitude": 65.7686288384,
+    "longitude": 155.1765748736,
+    "city": "Kerikeri",
+    "temperature": 13,
+    "speed": 123
+  },
+  {
+    "vehicleId": "FO8585595727446905",
+    "latitude": 26.2134004736,
+    "longitude": 160.7701886976,
+    "city": "Siverek",
+    "temperature": 75,
+    "speed": 119
+  },
+  {
+    "vehicleId": "HR1443661645365248399",
+    "latitude": 42.4759322624,
+    "longitude": -5.0527154176,
+    "city": "Querétaro",
+    "temperature": 28,
+    "speed": 199
+  },
+  {
+    "vehicleId": "MD8455820597744201335453",
+    "latitude": -46.4920379392,
+    "longitude": 128.3674595328,
+    "city": "Kano",
+    "temperature": 60,
+    "speed": 148
+  },
+  {
+    "vehicleId": "NL35XLJH3512062184",
+    "latitude": 73.2823502848,
+    "longitude": -36.1810112512,
+    "city": "Siedlce",
+    "temperature": 66,
+    "speed": 129
+  },
+  {
+    "vehicleId": "AT036674143040247381",
+    "latitude": 28.6960992256,
+    "longitude": -167.87106048,
+    "city": "Chulucanas",
+    "temperature": 49,
+    "speed": 139
+  },
+  {
+    "vehicleId": "FI4674748375533487",
+    "latitude": -51.5748755456,
+    "longitude": 173.431324672,
+    "city": "Bayeux",
+    "temperature": 38,
+    "speed": 101
+  },
+  {
+    "vehicleId": "MD9881591628406472816752",
+    "latitude": 45.4131900416,
+    "longitude": -144.0840138752,
+    "city": "Long Xuyên",
+    "temperature": 67,
+    "speed": 70
+  },
+  {
+    "vehicleId": "AE463352657181757387349",
+    "latitude": 30.8220029952,
+    "longitude": 120.4445918208,
+    "city": "Battagram",
+    "temperature": 16,
+    "speed": 53
+  },
+  {
+    "vehicleId": "NL42AZLK4218275845",
+    "latitude": 59.3743371264,
+    "longitude": -141.6890385408,
+    "city": "Thames",
+    "temperature": 36,
+    "speed": 175
+  },
+  {
+    "vehicleId": "DO40126211981853350085651133",
+    "latitude": 81.7481782272,
+    "longitude": -75.318933504,
+    "city": "Kleinmachnow",
+    "temperature": 2,
+    "speed": 163
+  },
+  {
+    "vehicleId": "MK67241653615913505",
+    "latitude": 74.039640576,
+    "longitude": 59.2444196864,
+    "city": "Lagos",
+    "temperature": 52,
+    "speed": 102
+  },
+  {
+    "vehicleId": "PT35163944518568368213862",
+    "latitude": -24.0467093504,
+    "longitude": 64.822913024,
+    "city": "North Shore",
+    "temperature": 93,
+    "speed": 109
+  },
+  {
+    "vehicleId": "ME39517447384821218835",
+    "latitude": 75.1608416256,
+    "longitude": -100.0562888704,
+    "city": "Körfez",
+    "temperature": 21,
+    "speed": 70
+  },
+  {
+    "vehicleId": "LI9544494518860173287",
+    "latitude": -54.40348416,
+    "longitude": 15.0041700352,
+    "city": "Desamparados",
+    "temperature": 27,
+    "speed": 188
+  },
+  {
+    "vehicleId": "LU837556887476215511",
+    "latitude": -20.203624448,
+    "longitude": 89.8330308608,
+    "city": "Marabá",
+    "temperature": 2,
+    "speed": 99
+  },
+  {
+    "vehicleId": "DK9887749655873820",
+    "latitude": 72.04819456,
+    "longitude": 169.7866042368,
+    "city": "Launceston",
+    "temperature": 56,
+    "speed": 101
+  },
+  {
+    "vehicleId": "MD4636592611450546364365",
+    "latitude": 54.9938638848,
+    "longitude": -21.769955328,
+    "city": "Jaboatão dos Guararapes",
+    "temperature": 6,
+    "speed": 73
+  },
+  {
+    "vehicleId": "HR8999441538476383337",
+    "latitude": 12.1607534592,
+    "longitude": 174.7859622912,
+    "city": "Burin",
+    "temperature": 0,
+    "speed": 50
+  },
+  {
+    "vehicleId": "RS81588384955163518527",
+    "latitude": -17.085005312,
+    "longitude": 107.5877097472,
+    "city": "Ceuta",
+    "temperature": 29,
+    "speed": 188
+  },
+  {
+    "vehicleId": "RS02636763106802659056",
+    "latitude": -58.7533479936,
+    "longitude": -93.464046592,
+    "city": "Palma de Mallorca",
+    "temperature": 64,
+    "speed": 171
+  },
+  {
+    "vehicleId": "RO21CYPI6188384760466752",
+    "latitude": 54.8563429376,
+    "longitude": 24.3069671424,
+    "city": "Orenburg",
+    "temperature": 70,
+    "speed": 17
+  },
+  {
+    "vehicleId": "LU950334866225547996",
+    "latitude": -16.039648256,
+    "longitude": 96.9604498432,
+    "city": "Van",
+    "temperature": 30,
+    "speed": 120
+  },
+  {
+    "vehicleId": "DO36369635680668522631313154",
+    "latitude": 14.8628544512,
+    "longitude": 95.1193101312,
+    "city": "Quetta",
+    "temperature": 10,
+    "speed": 199
+  },
+  {
+    "vehicleId": "AL32782571856567412583131311",
+    "latitude": -34.596288512,
+    "longitude": 113.4117093376,
+    "city": "Ceuta",
+    "temperature": 87,
+    "speed": 44
+  },
+  {
+    "vehicleId": "CY72361311746088585166647184",
+    "latitude": -23.5499506688,
+    "longitude": -14.2053229568,
+    "city": "Mường Lay",
+    "temperature": 45,
+    "speed": 70
+  },
+  {
+    "vehicleId": "CZ6996609843673779818872",
+    "latitude": 85.670846464,
+    "longitude": -174.6017835008,
+    "city": "Banjarmasin",
+    "temperature": 31,
+    "speed": 92
+  },
+  {
+    "vehicleId": "CY81664957277257880029186385",
+    "latitude": 4.6036466688,
+    "longitude": -78.0856790016,
+    "city": "Canberra",
+    "temperature": 8,
+    "speed": 103
+  },
+  {
+    "vehicleId": "BG20CVDQ12430837117498",
+    "latitude": 6.8229448704,
+    "longitude": 6.75754752,
+    "city": "Bastia",
+    "temperature": 17,
+    "speed": 157
+  },
+  {
+    "vehicleId": "CR8285226750664468632",
+    "latitude": -10.5938138112,
+    "longitude": -21.7193476096,
+    "city": "Tuktoyaktuk",
+    "temperature": 36,
+    "speed": 22
+  },
+  {
+    "vehicleId": "SM2256718871416435735861292",
+    "latitude": -10.1251792896,
+    "longitude": 74.7078339584,
+    "city": "Beausejour",
+    "temperature": 15,
+    "speed": 50
+  },
+  {
+    "vehicleId": "MU5794685689661232877644841112",
+    "latitude": 43.0292517888,
+    "longitude": -16.1581641728,
+    "city": "Biesme-sous-Thuin",
+    "temperature": 71,
+    "speed": 16
+  },
+  {
+    "vehicleId": "LB67555165574555317978657529",
+    "latitude": 2.7371254784,
+    "longitude": 56.6259113984,
+    "city": "Nha Trang",
+    "temperature": 97,
+    "speed": 146
+  },
+  {
+    "vehicleId": "IS037302663355282237853389",
+    "latitude": 84.6393560064,
+    "longitude": 108.7015713792,
+    "city": "Mitú",
+    "temperature": 54,
+    "speed": 97
+  },
+  {
+    "vehicleId": "NO2465417437189",
+    "latitude": -56.7843152896,
+    "longitude": -138.7809277952,
+    "city": "Xinjiang",
+    "temperature": 11,
+    "speed": 0
+  },
+  {
+    "vehicleId": "IT852GDCXI28711522237156464",
+    "latitude": -57.617967104,
+    "longitude": 61.0806196224,
+    "city": "Vienna",
+    "temperature": 50,
+    "speed": 146
+  },
+  {
+    "vehicleId": "LV48PMFQ0430464555140",
+    "latitude": 60.1132030976,
+    "longitude": -22.5683611648,
+    "city": "San Marcello Pistoiese",
+    "temperature": 13,
+    "speed": 146
+  },
+  {
+    "vehicleId": "BH66788383755956691549",
+    "latitude": 42.6073198592,
+    "longitude": 64.1797469184,
+    "city": "Argenteuil",
+    "temperature": 38,
+    "speed": 61
+  },
+  {
+    "vehicleId": "BA888632966644124313",
+    "latitude": 21.116507136,
+    "longitude": 23.577588736,
+    "city": "Pinneberg",
+    "temperature": 40,
+    "speed": 104
+  },
+  {
+    "vehicleId": "SE3517388787835556388720",
+    "latitude": -17.1502716928,
+    "longitude": 21.5891419136,
+    "city": "Leirvik",
+    "temperature": 97,
+    "speed": 85
+  },
+  {
+    "vehicleId": "IS794019836930336775316766",
+    "latitude": 9.6222509056,
+    "longitude": -84.7940145152,
+    "city": "Cork",
+    "temperature": 70,
+    "speed": 140
+  },
+  {
+    "vehicleId": "PL08144693887946623017748013",
+    "latitude": 16.8438938624,
+    "longitude": 142.517446144,
+    "city": "Nässjö",
+    "temperature": 53,
+    "speed": 16
+  },
+  {
+    "vehicleId": "NL70QWMI2887491689",
+    "latitude": 3.9426963456,
+    "longitude": 90.9765226496,
+    "city": "Paulista",
+    "temperature": 94,
+    "speed": 149
+  },
+  {
+    "vehicleId": "PT16151263698585235005384",
+    "latitude": -84.4965306368,
+    "longitude": -69.0047176704,
+    "city": "Delhi",
+    "temperature": 48,
+    "speed": 43
+  },
+  {
+    "vehicleId": "VG8541785867610395663215",
+    "latitude": -7.7457424384,
+    "longitude": -122.223412224,
+    "city": "Sarpsborg",
+    "temperature": 58,
+    "speed": 97
+  },
+  {
+    "vehicleId": "FR5780411637897372831481001",
+    "latitude": -81.6514348032,
+    "longitude": 46.0564258816,
+    "city": "Whitehorse",
+    "temperature": 52,
+    "speed": 164
+  },
+  {
+    "vehicleId": "KW0691421041722845603594539641",
+    "latitude": -45.4418439168,
+    "longitude": -169.4466622464,
+    "city": "Paillaco",
+    "temperature": 82,
+    "speed": 153
+  },
+  {
+    "vehicleId": "RS24447867291673839772",
+    "latitude": 72.8778263552,
+    "longitude": 71.483716608,
+    "city": "Ternate",
+    "temperature": 52,
+    "speed": 36
+  },
+  {
+    "vehicleId": "CY62569692365088822151416884",
+    "latitude": 62.711024128,
+    "longitude": -137.1044200448,
+    "city": "Belfast",
+    "temperature": 68,
+    "speed": 37
+  },
+  {
+    "vehicleId": "BH16167146826807464193",
+    "latitude": -79.4791148544,
+    "longitude": 53.6342116352,
+    "city": "Shillong",
+    "temperature": 25,
+    "speed": 62
+  },
+  {
+    "vehicleId": "SE3425300841428115423373",
+    "latitude": -12.6987840512,
+    "longitude": -14.1557660672,
+    "city": "Ferlach",
+    "temperature": 37,
+    "speed": 29
+  },
+  {
+    "vehicleId": "MT93JSVK73623654877393876738762",
+    "latitude": -87.4259567616,
+    "longitude": 138.4203348992,
+    "city": "Galway",
+    "temperature": 57,
+    "speed": 15
+  },
+  {
+    "vehicleId": "IS337401816804230077913523",
+    "latitude": -53.6968841216,
+    "longitude": -18.5673822208,
+    "city": "Sart-Eustache",
+    "temperature": 28,
+    "speed": 73
+  },
+  {
+    "vehicleId": "GI58SQIC815729573185722",
+    "latitude": -48.8411918336,
+    "longitude": 135.8235308032,
+    "city": "Dublin",
+    "temperature": 8,
+    "speed": 148
+  },
+  {
+    "vehicleId": "SA4152571567353397175098",
+    "latitude": -73.02464768,
+    "longitude": 50.1911411712,
+    "city": "Picton",
+    "temperature": 74,
+    "speed": 31
+  },
+  {
+    "vehicleId": "GL6304071250114804",
+    "latitude": -87.987018752,
+    "longitude": 179.290668032,
+    "city": "Valbrevenna",
+    "temperature": 36,
+    "speed": 125
+  },
+  {
+    "vehicleId": "IE64UUGP36682946911464",
+    "latitude": 40.2767215616,
+    "longitude": -176.6636209152,
+    "city": "Trà Vinh",
+    "temperature": 24,
+    "speed": 124
+  },
+  {
+    "vehicleId": "FR6422975106768443516838285",
+    "latitude": 45.3553494016,
+    "longitude": -99.460688384,
+    "city": "Ajmer",
+    "temperature": 8,
+    "speed": 82
+  },
+  {
+    "vehicleId": "CZ5188321165883325341975",
+    "latitude": 72.3906567168,
+    "longitude": -44.1263832064,
+    "city": "Ludwigsfelde",
+    "temperature": 60,
+    "speed": 100
+  },
+  {
+    "vehicleId": "CH9103805051275087691",
+    "latitude": 62.3245032448,
+    "longitude": -13.5485970432,
+    "city": "Ottignies",
+    "temperature": 26,
+    "speed": 172
+  },
+  {
+    "vehicleId": "VG1140138876176663917616",
+    "latitude": -3.6154927104,
+    "longitude": 148.4645989376,
+    "city": "Paita",
+    "temperature": 77,
+    "speed": 2
+  },
+  {
+    "vehicleId": "GE27843678578110704305",
+    "latitude": 40.7422006272,
+    "longitude": -144.9600384,
+    "city": "Gangneung",
+    "temperature": 65,
+    "speed": 125
+  },
+  {
+    "vehicleId": "AE648331147862958228953",
+    "latitude": -14.0574831616,
+    "longitude": -120.0568183808,
+    "city": "Angers",
+    "temperature": 2,
+    "speed": 137
+  },
+  {
+    "vehicleId": "DO31304385865865873600002823",
+    "latitude": 54.9742884864,
+    "longitude": -144.3937400832,
+    "city": "Napier",
+    "temperature": 55,
+    "speed": 87
+  },
+  {
+    "vehicleId": "BG41EDQS67698666446136",
+    "latitude": -73.0974524416,
+    "longitude": 84.8258573312,
+    "city": "Neder-Over-Heembeek",
+    "temperature": 94,
+    "speed": 52
+  },
+  {
+    "vehicleId": "AT035897995177462114",
+    "latitude": -69.408250368,
+    "longitude": -52.7335835648,
+    "city": "Oklahoma city",
+    "temperature": 67,
+    "speed": 41
+  },
+  {
+    "vehicleId": "BG54ZMJV55845905640184",
+    "latitude": -82.1924478976,
+    "longitude": 113.3286739968,
+    "city": "Eghezee",
+    "temperature": 69,
+    "speed": 44
+  },
+  {
+    "vehicleId": "SK9500849312671420412722",
+    "latitude": -19.2989284352,
+    "longitude": -45.4733167616,
+    "city": "Oteppe",
+    "temperature": 71,
+    "speed": 101
+  },
+  {
+    "vehicleId": "SK9632239481441526216243",
+    "latitude": -45.93033984,
+    "longitude": 119.4091433984,
+    "city": "Liberia",
+    "temperature": 63,
+    "speed": 163
+  },
+  {
+    "vehicleId": "PT08219556514134161775340",
+    "latitude": 85.0568620032,
+    "longitude": 17.7474958336,
+    "city": "Cartagena",
+    "temperature": 7,
+    "speed": 99
+  },
+  {
+    "vehicleId": "IE55TSXZ44678268727448",
+    "latitude": -58.0171390976,
+    "longitude": -47.1066714112,
+    "city": "Penza",
+    "temperature": 39,
+    "speed": 185
+  },
+  {
+    "vehicleId": "MC6638384203593823024140864",
+    "latitude": 46.2240892928,
+    "longitude": 119.3415340032,
+    "city": "Raufoss",
+    "temperature": 66,
+    "speed": 3
+  },
+  {
+    "vehicleId": "LV52DHKT0364578871451",
+    "latitude": -52.1906348032,
+    "longitude": 163.547033088,
+    "city": "Ningxia",
+    "temperature": 7,
+    "speed": 162
+  },
+  {
+    "vehicleId": "DK5082471576774872",
+    "latitude": -63.3837126656,
+    "longitude": 91.753781248,
+    "city": "Gore",
+    "temperature": 82,
+    "speed": 3
+  },
+  {
+    "vehicleId": "ES3573813366870841841463",
+    "latitude": -55.1528942592,
+    "longitude": -2.8706266112,
+    "city": "Dangjin",
+    "temperature": 19,
+    "speed": 4
+  },
+  {
+    "vehicleId": "MR7027374125382035931245193",
+    "latitude": 12.065453056,
+    "longitude": -33.8948588544,
+    "city": "Breda",
+    "temperature": 37,
+    "speed": 121
+  },
+  {
+    "vehicleId": "AL09526062821740274131373727",
+    "latitude": -77.178957312,
+    "longitude": 140.8944899072,
+    "city": "Thủ Dầu Một",
+    "temperature": 57,
+    "speed": 101
+  },
+  {
+    "vehicleId": "LT023648817672097365",
+    "latitude": 27.0852967424,
+    "longitude": -31.0275291136,
+    "city": "Huaral",
+    "temperature": 9,
+    "speed": 16
+  },
+  {
+    "vehicleId": "LB22356604268584766418650127",
+    "latitude": -24.9524922368,
+    "longitude": 3.6644862976,
+    "city": "La Dorada",
+    "temperature": 58,
+    "speed": 11
+  },
+  {
+    "vehicleId": "BA265711896781503542",
+    "latitude": -78.8068237312,
+    "longitude": 21.8889288704,
+    "city": "Worksop",
+    "temperature": 63,
+    "speed": 20
+  },
+  {
+    "vehicleId": "DO93417399352111808500466532",
+    "latitude": -65.9708053504,
+    "longitude": 152.764688896,
+    "city": "Jönköping",
+    "temperature": 31,
+    "speed": 29
+  },
+  {
+    "vehicleId": "LV85QCWU7782525060479",
+    "latitude": -13.30258432,
+    "longitude": -96.6065284096,
+    "city": "Porirua",
+    "temperature": 40,
+    "speed": 115
+  },
+  {
+    "vehicleId": "NO1785610976661",
+    "latitude": -78.3811366912,
+    "longitude": -128.5381911552,
+    "city": "Vienna",
+    "temperature": 99,
+    "speed": 56
+  },
+  {
+    "vehicleId": "AZ90803676112069437541546747",
+    "latitude": -7.324678144,
+    "longitude": -93.8382444544,
+    "city": "Itanagar",
+    "temperature": 93,
+    "speed": 185
+  },
+  {
+    "vehicleId": "GI10BGGH662576235411891",
+    "latitude": 68.2143616,
+    "longitude": 96.6375917568,
+    "city": "Shillong",
+    "temperature": 27,
+    "speed": 128
+  },
+  {
+    "vehicleId": "GL5771570813584668",
+    "latitude": -35.7775266816,
+    "longitude": -168.6958619648,
+    "city": "Oaxaca",
+    "temperature": 58,
+    "speed": 21
+  },
+  {
+    "vehicleId": "KW6658664468775624662376618033",
+    "latitude": -62.2649849856,
+    "longitude": -155.5863085056,
+    "city": "Auckland",
+    "temperature": 33,
+    "speed": 85
+  },
+  {
+    "vehicleId": "PS621022447679388447252437377",
+    "latitude": -32.6334413824,
+    "longitude": 89.3928336384,
+    "city": "Daly",
+    "temperature": 58,
+    "speed": 44
+  },
+  {
+    "vehicleId": "AL30744305968687524878884538",
+    "latitude": -79.3243600896,
+    "longitude": 163.5032674304,
+    "city": "Elx",
+    "temperature": 1,
+    "speed": 82
+  },
+  {
+    "vehicleId": "FO4270489013654156",
+    "latitude": 42.0511848448,
+    "longitude": -44.9170366464,
+    "city": "Gimcheon",
+    "temperature": 19,
+    "speed": 6
+  },
+  {
+    "vehicleId": "BH97527452834651335847",
+    "latitude": 51.145843712,
+    "longitude": 12.5980621824,
+    "city": "Queenstown",
+    "temperature": 36,
+    "speed": 120
+  },
+  {
+    "vehicleId": "PL19501814244236376277508008",
+    "latitude": -26.3093353472,
+    "longitude": -168.7178627072,
+    "city": "Mjölby",
+    "temperature": 61,
+    "speed": 21
+  },
+  {
+    "vehicleId": "CH4637734314061138282",
+    "latitude": 14.8359584768,
+    "longitude": 66.3143433216,
+    "city": "Liberia",
+    "temperature": 16,
+    "speed": 6
+  },
+  {
+    "vehicleId": "GR6056717557122271685641853",
+    "latitude": -86.6203040768,
+    "longitude": -120.7130309632,
+    "city": "Albury",
+    "temperature": 91,
+    "speed": 165
+  },
+  {
+    "vehicleId": "GB67VVSL23147746833786",
+    "latitude": -65.8647955456,
+    "longitude": 114.3049270272,
+    "city": "Aiseau",
+    "temperature": 73,
+    "speed": 71
+  },
+  {
+    "vehicleId": "GL2745035551371794",
+    "latitude": 56.542192128,
+    "longitude": 120.376760832,
+    "city": "Asigliano Veneto",
+    "temperature": 93,
+    "speed": 127
+  },
+  {
+    "vehicleId": "DE74316615214923942007",
+    "latitude": -68.70111232,
+    "longitude": -168.8333073408,
+    "city": "Piotrków Trybunalski",
+    "temperature": 3,
+    "speed": 178
+  },
+  {
+    "vehicleId": "IE81CUBE48463781486808",
+    "latitude": 53.7656462336,
+    "longitude": -5.0754208768,
+    "city": "Kirov",
+    "temperature": 22,
+    "speed": 200
+  },
+  {
+    "vehicleId": "SK0274213788898571087428",
+    "latitude": -89.8396320768,
+    "longitude": -119.388498944,
+    "city": "Puntarenas",
+    "temperature": 93,
+    "speed": 82
+  },
+  {
+    "vehicleId": "MK06918716824712918",
+    "latitude": 1.4083456,
+    "longitude": -78.80484864,
+    "city": "Vienna",
+    "temperature": 12,
+    "speed": 124
+  },
+  {
+    "vehicleId": "MK95623823278408146",
+    "latitude": 29.142210048,
+    "longitude": 177.567518208,
+    "city": "Guizhou",
+    "temperature": 72,
+    "speed": 154
+  },
+  {
+    "vehicleId": "AZ15273055858741762197534013",
+    "latitude": 82.459487232,
+    "longitude": -128.0260768768,
+    "city": "Mianwali",
+    "temperature": 88,
+    "speed": 69
+  },
+  {
+    "vehicleId": "ES2785338468923987761248",
+    "latitude": -80.034609152,
+    "longitude": -10.8919863296,
+    "city": "Seogwipo",
+    "temperature": 90,
+    "speed": 74
+  },
+  {
+    "vehicleId": "PL15434796318056384716452615",
+    "latitude": 64.970948608,
+    "longitude": -1.7972150272,
+    "city": "Hachy",
+    "temperature": 34,
+    "speed": 165
+  },
+  {
+    "vehicleId": "SK9362511623651347363767",
+    "latitude": 85.43308544,
+    "longitude": 36.4577916928,
+    "city": "Hudiksvall",
+    "temperature": 99,
+    "speed": 109
+  },
+  {
+    "vehicleId": "NO3879632835631",
+    "latitude": 1.1290786816,
+    "longitude": 155.3564626944,
+    "city": "Almere",
+    "temperature": 41,
+    "speed": 120
+  },
+  {
+    "vehicleId": "DE64251533119072678405",
+    "latitude": 73.7158912,
+    "longitude": -35.5707961344,
+    "city": "Almere",
+    "temperature": 24,
+    "speed": 178
+  },
+  {
+    "vehicleId": "AL43277857441711992120259442",
+    "latitude": -19.788631552,
+    "longitude": 78.5371698176,
+    "city": "Heredia",
+    "temperature": 30,
+    "speed": 126
+  },
+  {
+    "vehicleId": "TR405737767758175643427342",
+    "latitude": -67.3498187776,
+    "longitude": -2.0014896128,
+    "city": "Samaniego",
+    "temperature": 69,
+    "speed": 133
+  },
+  {
+    "vehicleId": "MR1802175726849236631815446",
+    "latitude": 46.1670317056,
+    "longitude": -101.1341917184,
+    "city": "Licantén",
+    "temperature": 57,
+    "speed": 122
+  },
+  {
+    "vehicleId": "NL43VTMO6378731347",
+    "latitude": 52.6392359936,
+    "longitude": 13.2565705728,
+    "city": "Baltimore",
+    "temperature": 39,
+    "speed": 30
+  },
+  {
+    "vehicleId": "MD2728278361380766148123",
+    "latitude": -61.9363176448,
+    "longitude": 143.96610048,
+    "city": "Altach",
+    "temperature": 82,
+    "speed": 118
+  },
+  {
+    "vehicleId": "MC5835723727773711275056138",
+    "latitude": 18.8169270272,
+    "longitude": -122.0797633536,
+    "city": "Alajuela",
+    "temperature": 49,
+    "speed": 171
+  },
+  {
+    "vehicleId": "AL98717894068524151366323195",
+    "latitude": -78.37413376,
+    "longitude": 62.2147429376,
+    "city": "Elbląg",
+    "temperature": 50,
+    "speed": 78
+  },
+  {
+    "vehicleId": "FO0732870368475358",
+    "latitude": 79.1804258304,
+    "longitude": -27.7481521152,
+    "city": "Kielce",
+    "temperature": 71,
+    "speed": 166
+  },
+  {
+    "vehicleId": "TN4972627130311334231823",
+    "latitude": -50.91715328,
+    "longitude": -62.6080355328,
+    "city": "Starachowice",
+    "temperature": 39,
+    "speed": 137
+  },
+  {
+    "vehicleId": "GI87YQRA716123420218886",
+    "latitude": -83.3158616064,
+    "longitude": -3.638012928,
+    "city": "Gojal Upper Hunza",
+    "temperature": 68,
+    "speed": 49
+  },
+  {
+    "vehicleId": "MU2364446033892480356411683636",
+    "latitude": -27.9277359104,
+    "longitude": -158.0044197888,
+    "city": "Shillong",
+    "temperature": 7,
+    "speed": 58
+  },
+  {
+    "vehicleId": "IS255741077108623483751476",
+    "latitude": 15.707590144,
+    "longitude": -68.7387582464,
+    "city": "Reus",
+    "temperature": 29,
+    "speed": 179
+  },
+  {
+    "vehicleId": "MC6811318634339661165151718",
+    "latitude": -87.9255825408,
+    "longitude": -101.3007054848,
+    "city": "Canela",
+    "temperature": 64,
+    "speed": 134
+  },
+  {
+    "vehicleId": "IT645YXCCI44706376544837418",
+    "latitude": 6.3481607168,
+    "longitude": 145.0526340096,
+    "city": "Quảng Ngãi",
+    "temperature": 42,
+    "speed": 14
+  },
+  {
+    "vehicleId": "AD3251383203242004792321",
+    "latitude": -40.0458062848,
+    "longitude": -131.4515228672,
+    "city": "Villa del Rosario",
+    "temperature": 18,
+    "speed": 158
+  },
+  {
+    "vehicleId": "LB58740145369383745259241460",
+    "latitude": 25.5665965056,
+    "longitude": 108.1850462208,
+    "city": "Palma de Mallorca",
+    "temperature": 46,
+    "speed": 13
+  },
+  {
+    "vehicleId": "PL09903825777426818711715827",
+    "latitude": -81.9035614208,
+    "longitude": 66.328943616,
+    "city": "Thames",
+    "temperature": 98,
+    "speed": 134
+  },
+  {
+    "vehicleId": "RS53674658262221844527",
+    "latitude": 74.5706099712,
+    "longitude": -93.8641632256,
+    "city": "Alacant",
+    "temperature": 19,
+    "speed": 103
+  },
+  {
+    "vehicleId": "LT592366345733175713",
+    "latitude": -47.8276292608,
+    "longitude": 54.0377838592,
+    "city": "Belford Roxo",
+    "temperature": 68,
+    "speed": 67
+  },
+  {
+    "vehicleId": "GT42529588125124152731871761",
+    "latitude": -70.5027753984,
+    "longitude": -86.2404443136,
+    "city": "Freital",
+    "temperature": 15,
+    "speed": 195
+  },
+  {
+    "vehicleId": "TN5618828567956151344207",
+    "latitude": -60.6405950464,
+    "longitude": -77.2702302208,
+    "city": "Pamplona",
+    "temperature": 29,
+    "speed": 107
+  },
+  {
+    "vehicleId": "DO87102888492317364046248178",
+    "latitude": -46.6798060544,
+    "longitude": -103.2901843968,
+    "city": "Petrópolis",
+    "temperature": 53,
+    "speed": 30
+  },
+  {
+    "vehicleId": "MD5676675675344535720177",
+    "latitude": -59.169517056,
+    "longitude": 137.3373082624,
+    "city": "Almere",
+    "temperature": 72,
+    "speed": 2
+  },
+  {
+    "vehicleId": "PS936064546853162206564118234",
+    "latitude": -7.1093398528,
+    "longitude": 20.8370349056,
+    "city": "Tanjung Pinang",
+    "temperature": 19,
+    "speed": 22
+  },
+  {
+    "vehicleId": "CY19233556464284217447505749",
+    "latitude": 88.5865193472,
+    "longitude": 43.196780032,
+    "city": "Belfast",
+    "temperature": 47,
+    "speed": 5
+  },
+  {
+    "vehicleId": "KW5512925388248065751372833308",
+    "latitude": -65.4720728064,
+    "longitude": 10.5866246144,
+    "city": "İzmit",
+    "temperature": 31,
+    "speed": 35
+  },
+  {
+    "vehicleId": "GE82817413402772688967",
+    "latitude": -35.6581255168,
+    "longitude": 122.48353024,
+    "city": "Cabras",
+    "temperature": 60,
+    "speed": 164
+  },
+  {
+    "vehicleId": "MR5730966982733619144254555",
+    "latitude": 31.3857553408,
+    "longitude": 133.6999501824,
+    "city": "Buren",
+    "temperature": 90,
+    "speed": 53
+  },
+  {
+    "vehicleId": "SI11114512673182632",
+    "latitude": -78.4228050944,
+    "longitude": 73.966461952,
+    "city": "Chesterfield",
+    "temperature": 13,
+    "speed": 175
+  },
+  {
+    "vehicleId": "AT545567861561844849",
+    "latitude": -33.2194814976,
+    "longitude": -52.4950470656,
+    "city": "Celaya",
+    "temperature": 10,
+    "speed": 143
+  },
+  {
+    "vehicleId": "IT204OPILI22546674131298850",
+    "latitude": 70.2362590208,
+    "longitude": -49.9829909504,
+    "city": "Kotli",
+    "temperature": 96,
+    "speed": 9
+  },
+  {
+    "vehicleId": "NL23DYLR7677245562",
+    "latitude": 29.7845167104,
+    "longitude": -148.783555584,
+    "city": "Bima",
+    "temperature": 50,
+    "speed": 184
+  },
+  {
+    "vehicleId": "VG0706182464824717410862",
+    "latitude": -3.2941865984,
+    "longitude": -16.6751818752,
+    "city": "Tarma",
+    "temperature": 12,
+    "speed": 36
+  },
+  {
+    "vehicleId": "RO83WFPB8485543394277431",
+    "latitude": -54.0388676608,
+    "longitude": 162.432290816,
+    "city": "Fresno",
+    "temperature": 94,
+    "speed": 129
+  },
+  {
+    "vehicleId": "PK3468773035936577151345",
+    "latitude": 33.2548091904,
+    "longitude": -27.2165599232,
+    "city": "Chépica",
+    "temperature": 54,
+    "speed": 20
+  },
+  {
+    "vehicleId": "TR821689263168783371431696",
+    "latitude": -68.7574224896,
+    "longitude": 113.4369979392,
+    "city": "Darwin",
+    "temperature": 63,
+    "speed": 111
+  },
+  {
+    "vehicleId": "FR1235671169887618022283575",
+    "latitude": -75.6783802368,
+    "longitude": 132.3668476928,
+    "city": "Shanxi",
+    "temperature": 25,
+    "speed": 118
+  },
+  {
+    "vehicleId": "LV26ZIWQ4804221192796",
+    "latitude": 37.3986518016,
+    "longitude": 30.4421279744,
+    "city": "Vĩnh Long",
+    "temperature": 11,
+    "speed": 37
+  },
+  {
+    "vehicleId": "AT766624712656773540",
+    "latitude": -9.3010356224,
+    "longitude": -148.1921792,
+    "city": "Bama",
+    "temperature": 80,
+    "speed": 44
+  },
+  {
+    "vehicleId": "NO5404242455767",
+    "latitude": 23.8518499328,
+    "longitude": 32.4404866048,
+    "city": "Picton",
+    "temperature": 6,
+    "speed": 188
+  },
+  {
+    "vehicleId": "CZ5450813343753535459386",
+    "latitude": -87.9090313216,
+    "longitude": -143.4352871424,
+    "city": "Gongju",
+    "temperature": 27,
+    "speed": 4
+  },
+  {
+    "vehicleId": "PL98611777146235841866822336",
+    "latitude": 52.8962480128,
+    "longitude": -31.6540695552,
+    "city": "Feldkirchen in Kärnten",
+    "temperature": 74,
+    "speed": 77
+  },
+  {
+    "vehicleId": "FO4086667872342071",
+    "latitude": 43.0852487168,
+    "longitude": -8.353785856,
+    "city": "Golspie",
+    "temperature": 61,
+    "speed": 152
+  },
+  {
+    "vehicleId": "DK8988558350464771",
+    "latitude": 2.6565728256,
+    "longitude": 121.1841425408,
+    "city": "San Mauro Marchesato",
+    "temperature": 76,
+    "speed": 50
+  },
+  {
+    "vehicleId": "TR147665371480460661471956",
+    "latitude": -22.2135570432,
+    "longitude": 128.9361660928,
+    "city": "Leticia",
+    "temperature": 33,
+    "speed": 156
+  },
+  {
+    "vehicleId": "GR9263627486281287877554542",
+    "latitude": -28.1578962944,
+    "longitude": -16.748830208,
+    "city": "Compiègne",
+    "temperature": 32,
+    "speed": 67
+  },
+  {
+    "vehicleId": "BH07274691752562198048",
+    "latitude": -75.4021479424,
+    "longitude": 69.9069850624,
+    "city": "Brive-la-Gaillarde",
+    "temperature": 71,
+    "speed": 135
+  },
+  {
+    "vehicleId": "SA7189251782123957722552",
+    "latitude": -3.8429858816,
+    "longitude": -92.5878829056,
+    "city": "Bridgwater",
+    "temperature": 56,
+    "speed": 92
+  },
+  {
+    "vehicleId": "CH5088044163829926545",
+    "latitude": -1.5286611968,
+    "longitude": 117.9237083136,
+    "city": "Huancayo",
+    "temperature": 82,
+    "speed": 5
+  },
+  {
+    "vehicleId": "SK9217885130413748657376",
+    "latitude": 79.052882944,
+    "longitude": 164.8074891264,
+    "city": "Saint-Dizier",
+    "temperature": 23,
+    "speed": 83
+  },
+  {
+    "vehicleId": "GE55868493953032139070",
+    "latitude": 7.7440429056,
+    "longitude": -90.3670868992,
+    "city": "Kupang",
+    "temperature": 76,
+    "speed": 146
+  },
+  {
+    "vehicleId": "MD9454787715638156712611",
+    "latitude": 38.1567409152,
+    "longitude": -138.6618984448,
+    "city": "Jiangxi",
+    "temperature": 5,
+    "speed": 47
+  },
+  {
+    "vehicleId": "AD7443151658129159252235",
+    "latitude": -48.3824894976,
+    "longitude": 170.949792256,
+    "city": "Cork",
+    "temperature": 24,
+    "speed": 23
+  },
+  {
+    "vehicleId": "IS902929219585179862348286",
+    "latitude": 63.3227726848,
+    "longitude": 66.2569805824,
+    "city": "Port Augusta",
+    "temperature": 63,
+    "speed": 82
+  },
+  {
+    "vehicleId": "SM3972094651871113648231915",
+    "latitude": 53.5260649472,
+    "longitude": 138.7182722048,
+    "city": "Nicoya",
+    "temperature": 21,
+    "speed": 59
+  },
+  {
+    "vehicleId": "IT465BCCPI32708672852802408",
+    "latitude": -79.1175026688,
+    "longitude": -56.5195200512,
+    "city": "Nurdağı",
+    "temperature": 2,
+    "speed": 2
+  },
+  {
+    "vehicleId": "AT115701586218441792",
+    "latitude": -86.727418368,
+    "longitude": -2.9603355648,
+    "city": "South Bend",
+    "temperature": 94,
+    "speed": 189
+  },
+  {
+    "vehicleId": "HU38710941104166889741974236",
+    "latitude": 23.2394924032,
+    "longitude": -173.8639277056,
+    "city": "Skövde",
+    "temperature": 99,
+    "speed": 192
+  },
+  {
+    "vehicleId": "RS49556193643184205096",
+    "latitude": 3.9412192256,
+    "longitude": -43.713531904,
+    "city": "Xalapa",
+    "temperature": 32,
+    "speed": 57
+  },
+  {
+    "vehicleId": "LI8663070790433233129",
+    "latitude": -77.4902639616,
+    "longitude": 61.9219006464,
+    "city": "Sujawal",
+    "temperature": 52,
+    "speed": 78
+  },
+  {
+    "vehicleId": "AL36856428467472146198802783",
+    "latitude": 32.9828468736,
+    "longitude": -75.6945869824,
+    "city": "Alanya",
+    "temperature": 13,
+    "speed": 88
+  },
+  {
+    "vehicleId": "EE888648656427272682",
+    "latitude": 20.7560593408,
+    "longitude": 173.709905408,
+    "city": "Heilongjiang",
+    "temperature": 40,
+    "speed": 175
+  },
+  {
+    "vehicleId": "PS273093274576695464541863351",
+    "latitude": -58.0677374976,
+    "longitude": 162.9467788288,
+    "city": "Sốp Cộp",
+    "temperature": 74,
+    "speed": 176
+  },
+  {
+    "vehicleId": "MR9317239346535807733583333",
+    "latitude": 55.2002276352,
+    "longitude": -171.7136382976,
+    "city": "Alcalá de Henares",
+    "temperature": 74,
+    "speed": 14
+  },
+  {
+    "vehicleId": "AL13833385151726409749220679",
+    "latitude": -65.9274978304,
+    "longitude": 97.3243569152,
+    "city": "Liaoning",
+    "temperature": 52,
+    "speed": 169
+  },
+  {
+    "vehicleId": "MK67148825486345236",
+    "latitude": -80.7473248256,
+    "longitude": -173.9081326592,
+    "city": "Gaithersburg",
+    "temperature": 19,
+    "speed": 138
+  },
+  {
+    "vehicleId": "SM4917525751585678470272669",
+    "latitude": -59.375650304,
+    "longitude": -162.4871003136,
+    "city": "Bắc Kạn",
+    "temperature": 74,
+    "speed": 173
+  },
+  {
+    "vehicleId": "GI91VYLL261655602223356",
+    "latitude": -78.433323008,
+    "longitude": 98.9234241536,
+    "city": "Tuxtla Gutiérrez",
+    "temperature": 8,
+    "speed": 64
+  },
+  {
+    "vehicleId": "LI7165766793354351278",
+    "latitude": -86.7295971328,
+    "longitude": 28.2547047424,
+    "city": "Mexico city",
+    "temperature": 70,
+    "speed": 196
+  },
+  {
+    "vehicleId": "MT06FUKV15168655119257864119712",
+    "latitude": -87.759913984,
+    "longitude": 144.6761417728,
+    "city": "San José de Alajuela",
+    "temperature": 3,
+    "speed": 10
+  },
+  {
+    "vehicleId": "AZ06485145338411186654818481",
+    "latitude": 41.0324844544,
+    "longitude": 16.834223616,
+    "city": "Elbistan",
+    "temperature": 31,
+    "speed": 83
+  },
+  {
+    "vehicleId": "KW1424786636885365583156059318",
+    "latitude": 43.1220363264,
+    "longitude": 76.0224939008,
+    "city": "Mitú",
+    "temperature": 95,
+    "speed": 41
+  },
+  {
+    "vehicleId": "SK4009703197571782453486",
+    "latitude": -25.5913786368,
+    "longitude": -65.8433931264,
+    "city": "Recco",
+    "temperature": 0,
+    "speed": 55
+  },
+  {
+    "vehicleId": "SM4938892367288336593324574",
+    "latitude": -88.6662974464,
+    "longitude": 1.6109056,
+    "city": "Châtellerault",
+    "temperature": 34,
+    "speed": 136
+  },
+  {
+    "vehicleId": "KW1356947360829747063725812813",
+    "latitude": 64.0471248896,
+    "longitude": -61.0399936512,
+    "city": "Bad Dürkheim",
+    "temperature": 23,
+    "speed": 193
+  },
+  {
+    "vehicleId": "SM7738235146125555442385338",
+    "latitude": 35.1918963712,
+    "longitude": -88.4549337088,
+    "city": "New Radnor",
+    "temperature": 33,
+    "speed": 177
+  },
+  {
+    "vehicleId": "NL96GPJT3342128398",
+    "latitude": 1.4046717952,
+    "longitude": 93.850665472,
+    "city": "Jacobabad",
+    "temperature": 49,
+    "speed": 156
+  },
+  {
+    "vehicleId": "PS444527266831552852685305655",
+    "latitude": 47.0762123264,
+    "longitude": 4.5154458624,
+    "city": "Waidhofen an der Ybbs",
+    "temperature": 48,
+    "speed": 22
+  },
+  {
+    "vehicleId": "CR7058256164242272416",
+    "latitude": 61.7306454016,
+    "longitude": 87.241097728,
+    "city": "Oldenzaal",
+    "temperature": 15,
+    "speed": 1
+  },
+  {
+    "vehicleId": "GR0754122755573126289584675",
+    "latitude": 27.0595795968,
+    "longitude": -0.3610723328,
+    "city": "Brevik",
+    "temperature": 13,
+    "speed": 137
+  },
+  {
+    "vehicleId": "HR4775078888525673825",
+    "latitude": -68.6375832576,
+    "longitude": 143.0448467968,
+    "city": "Corozal",
+    "temperature": 74,
+    "speed": 158
+  },
+  {
+    "vehicleId": "GR0771248371921942431612967",
+    "latitude": -81.1830861824,
+    "longitude": -39.4319253504,
+    "city": "MalŽves-Sainte-Marie-Wastines",
+    "temperature": 12,
+    "speed": 89
+  },
+  {
+    "vehicleId": "LV96WHEY8128983634711",
+    "latitude": 19.232768,
+    "longitude": -101.5385709568,
+    "city": "Paita",
+    "temperature": 33,
+    "speed": 176
+  },
+  {
+    "vehicleId": "IS224744523986276577424810",
+    "latitude": -18.7792012288,
+    "longitude": -174.853835776,
+    "city": "San Calogero",
+    "temperature": 90,
+    "speed": 31
+  },
+  {
+    "vehicleId": "IS102023508727089384472781",
+    "latitude": -65.3409016832,
+    "longitude": 61.1949868032,
+    "city": "Tumba",
+    "temperature": 67,
+    "speed": 78
+  },
+  {
+    "vehicleId": "FI4574376783453851",
+    "latitude": -1.266947584,
+    "longitude": 158.4545722368,
+    "city": "Fayetteville",
+    "temperature": 31,
+    "speed": 138
+  },
+  {
+    "vehicleId": "GI96BOLK892652413231621",
+    "latitude": 22.0473844736,
+    "longitude": 50.5948331008,
+    "city": "San José de Alajuela",
+    "temperature": 26,
+    "speed": 61
+  },
+  {
+    "vehicleId": "KZ200982440763706528",
+    "latitude": 21.7906229248,
+    "longitude": 63.0305630208,
+    "city": "Villers-la-Ville",
+    "temperature": 72,
+    "speed": 57
+  },
+  {
+    "vehicleId": "FI2488931066272046",
+    "latitude": -23.0217555968,
+    "longitude": -149.5120425984,
+    "city": "Tuy Hòa",
+    "temperature": 74,
+    "speed": 124
+  },
+  {
+    "vehicleId": "LI4637743864777159204",
+    "latitude": -16.2497206272,
+    "longitude": -148.6701070336,
+    "city": "Gliwice",
+    "temperature": 89,
+    "speed": 80
+  },
+  {
+    "vehicleId": "GR3602264465358367365740593",
+    "latitude": -58.7594249216,
+    "longitude": 99.6599860224,
+    "city": "Tam Kỳ",
+    "temperature": 91,
+    "speed": 104
+  },
+  {
+    "vehicleId": "BH45062518356284194135",
+    "latitude": -85.0781696,
+    "longitude": 114.2172603392,
+    "city": "Odda",
+    "temperature": 48,
+    "speed": 120
+  },
+  {
+    "vehicleId": "GE35415546343310347715",
+    "latitude": -10.9038737408,
+    "longitude": 140.5479781376,
+    "city": "Yopal",
+    "temperature": 20,
+    "speed": 119
+  },
+  {
+    "vehicleId": "GI88DBMD958244300448708",
+    "latitude": 20.0589550592,
+    "longitude": -79.639110656,
+    "city": "Tibet",
+    "temperature": 71,
+    "speed": 94
+  },
+  {
+    "vehicleId": "AZ39427275489701331812374973",
+    "latitude": 21.784521216,
+    "longitude": -168.0588132352,
+    "city": "Bhimber",
+    "temperature": 13,
+    "speed": 28
+  },
+  {
+    "vehicleId": "TR518220334118145238064636",
+    "latitude": 66.683112448,
+    "longitude": -96.7635042304,
+    "city": "Kano",
+    "temperature": 29,
+    "speed": 90
+  },
+  {
+    "vehicleId": "CZ5132729424011410043369",
+    "latitude": 14.5630311424,
+    "longitude": 38.037766656,
+    "city": "Weert",
+    "temperature": 97,
+    "speed": 68
+  },
+  {
+    "vehicleId": "VG2615338355575572841413",
+    "latitude": -41.9018061824,
+    "longitude": -120.085932544,
+    "city": "San Andrés",
+    "temperature": 32,
+    "speed": 156
+  },
+  {
+    "vehicleId": "GI37NVLS328324579394114",
+    "latitude": -8.6001896448,
+    "longitude": 79.9001690112,
+    "city": "Tolyatti",
+    "temperature": 8,
+    "speed": 147
+  },
+  {
+    "vehicleId": "GE52684283057811313611",
+    "latitude": -84.7951670272,
+    "longitude": 72.1620247552,
+    "city": "Dumbarton",
+    "temperature": 71,
+    "speed": 184
+  },
+  {
+    "vehicleId": "ME83458571772896762463",
+    "latitude": 23.3640807424,
+    "longitude": 164.2141872128,
+    "city": "Okene",
+    "temperature": 42,
+    "speed": 168
+  },
+  {
+    "vehicleId": "SE7437648658604185732539",
+    "latitude": 4.0694863872,
+    "longitude": -122.9883234304,
+    "city": "Tromsø",
+    "temperature": 16,
+    "speed": 198
+  },
+  {
+    "vehicleId": "PT17734127836417873827571",
+    "latitude": 18.0176039936,
+    "longitude": -72.843389952,
+    "city": "Mersin",
+    "temperature": 76,
+    "speed": 4
+  },
+  {
+    "vehicleId": "SI79461478545835351",
+    "latitude": -43.2827511808,
+    "longitude": -91.885520384,
+    "city": "Mérignac",
+    "temperature": 38,
+    "speed": 51
+  },
+  {
+    "vehicleId": "AT418517646453476755",
+    "latitude": 38.5070111744,
+    "longitude": 96.0231384064,
+    "city": "Oudergem",
+    "temperature": 83,
+    "speed": 112
+  },
+  {
+    "vehicleId": "BE31375777492037",
+    "latitude": -74.1094695936,
+    "longitude": -175.7973083136,
+    "city": "Cockburn",
+    "temperature": 61,
+    "speed": 122
+  },
+  {
+    "vehicleId": "LB81653385124337155534662333",
+    "latitude": 48.567891968,
+    "longitude": 163.286885376,
+    "city": "Sandviken",
+    "temperature": 10,
+    "speed": 32
+  },
+  {
+    "vehicleId": "IE79BIML54972976887078",
+    "latitude": -42.92951808,
+    "longitude": 154.6286354432,
+    "city": "Cork",
+    "temperature": 15,
+    "speed": 179
+  },
+  {
+    "vehicleId": "FI5868941387761037",
+    "latitude": 32.8212047872,
+    "longitude": 74.7505458176,
+    "city": "Yekaterinburg",
+    "temperature": 81,
+    "speed": 156
+  },
+  {
+    "vehicleId": "FI5822533876941516",
+    "latitude": 47.7267518464,
+    "longitude": 120.728400896,
+    "city": "Freising",
+    "temperature": 5,
+    "speed": 170
+  },
+  {
+    "vehicleId": "IL146156327921616625370",
+    "latitude": -76.6113777664,
+    "longitude": -54.331271168,
+    "city": "Sromness",
+    "temperature": 48,
+    "speed": 180
+  },
+  {
+    "vehicleId": "SK1955737184545524638518",
+    "latitude": 1.0025838592,
+    "longitude": 19.4817353728,
+    "city": "Dublin",
+    "temperature": 54,
+    "speed": 124
+  },
+  {
+    "vehicleId": "GB13KUAF43025260028272",
+    "latitude": -7.8238219264,
+    "longitude": -118.07393792,
+    "city": "Birmingham",
+    "temperature": 75,
+    "speed": 14
+  },
+  {
+    "vehicleId": "KZ823018274742378381",
+    "latitude": -37.0270998528,
+    "longitude": 99.8490125312,
+    "city": "Zierikzee",
+    "temperature": 54,
+    "speed": 173
+  },
+  {
+    "vehicleId": "PK9716241723354427207696",
+    "latitude": 85.1651457024,
+    "longitude": 33.7487839232,
+    "city": "Hainan",
+    "temperature": 33,
+    "speed": 111
+  },
+  {
+    "vehicleId": "BH11047677381506541468",
+    "latitude": 57.8000536576,
+    "longitude": 98.7096911872,
+    "city": "Oaxaca",
+    "temperature": 10,
+    "speed": 99
+  },
+  {
+    "vehicleId": "RO79OUFG3966540884685659",
+    "latitude": -9.9699984384,
+    "longitude": 65.5550809088,
+    "city": "Kristiansund",
+    "temperature": 31,
+    "speed": 103
+  },
+  {
+    "vehicleId": "LU764761559815701736",
+    "latitude": 8.303761408,
+    "longitude": -118.9519333376,
+    "city": "Spittal an der Drau",
+    "temperature": 81,
+    "speed": 10
+  },
+  {
+    "vehicleId": "RO46QTII1748217711568968",
+    "latitude": -86.8734471168,
+    "longitude": -162.0762843136,
+    "city": "Sangju",
+    "temperature": 4,
+    "speed": 49
+  },
+  {
+    "vehicleId": "ES8178081444935560644232",
+    "latitude": -52.0027060224,
+    "longitude": 140.4517871616,
+    "city": "Enschede",
+    "temperature": 33,
+    "speed": 96
+  },
+  {
+    "vehicleId": "MR2477345112445719796518271",
+    "latitude": 67.0263657472,
+    "longitude": -143.517402112,
+    "city": "Erciş",
+    "temperature": 76,
+    "speed": 64
+  },
+  {
+    "vehicleId": "GT37610842273688372997673566",
+    "latitude": -30.3268882432,
+    "longitude": 146.2316608512,
+    "city": "Tây Ninh",
+    "temperature": 26,
+    "speed": 108
+  },
+  {
+    "vehicleId": "IS027513785232628409103893",
+    "latitude": 43.6188136448,
+    "longitude": -4.9271044096,
+    "city": "Ghizer",
+    "temperature": 65,
+    "speed": 89
+  },
+  {
+    "vehicleId": "RS78551885748347364861",
+    "latitude": -71.657362944,
+    "longitude": -112.659933184,
+    "city": "Cork",
+    "temperature": 71,
+    "speed": 68
+  },
+  {
+    "vehicleId": "GR1561247156811143137018263",
+    "latitude": 82.7589100544,
+    "longitude": 15.0723974144,
+    "city": "Saint-Dizier",
+    "temperature": 60,
+    "speed": 101
+  },
+  {
+    "vehicleId": "EE445420351640424264",
+    "latitude": 82.6015993856,
+    "longitude": -103.7368889344,
+    "city": "Sooke",
+    "temperature": 24,
+    "speed": 78
+  },
+  {
+    "vehicleId": "PK5658323671166843534483",
+    "latitude": -33.7705017344,
+    "longitude": 45.2592881664,
+    "city": "Bremerhaven",
+    "temperature": 49,
+    "speed": 126
+  },
+  {
+    "vehicleId": "AL62281101123241377625228772",
+    "latitude": 37.0096425984,
+    "longitude": -91.6371703808,
+    "city": "Lào Cai",
+    "temperature": 53,
+    "speed": 61
+  },
+  {
+    "vehicleId": "TN5719057936244191577376",
+    "latitude": 42.869236224,
+    "longitude": -114.8260685824,
+    "city": "Gunsan",
+    "temperature": 43,
+    "speed": 144
+  },
+  {
+    "vehicleId": "RO16ZKVB3930791275458872",
+    "latitude": -43.1254832128,
+    "longitude": -152.0030810112,
+    "city": "Mastung",
+    "temperature": 45,
+    "speed": 133
+  },
+  {
+    "vehicleId": "CY13115085866497115786113133",
+    "latitude": 72.5755916288,
+    "longitude": 17.1223842816,
+    "city": "Hervey Bay",
+    "temperature": 38,
+    "speed": 33
+  },
+  {
+    "vehicleId": "FR7147284226576480216611150",
+    "latitude": -44.5516168192,
+    "longitude": -117.3622280192,
+    "city": "Falun",
+    "temperature": 86,
+    "speed": 169
+  },
+  {
+    "vehicleId": "MU5468966721065377536411486644",
+    "latitude": 33.3295533056,
+    "longitude": -169.9572721664,
+    "city": "Bắc Kạn",
+    "temperature": 55,
+    "speed": 88
+  },
+  {
+    "vehicleId": "IT036CYJKI74022865378541377",
+    "latitude": 57.5969082368,
+    "longitude": 42.3741510656,
+    "city": "New Bombay",
+    "temperature": 4,
+    "speed": 109
+  },
+  {
+    "vehicleId": "ME88143256874196465320",
+    "latitude": -67.7197198336,
+    "longitude": 61.2264704,
+    "city": "Gdańsk",
+    "temperature": 100,
+    "speed": 141
+  },
+  {
+    "vehicleId": "SE1875808552428577548677",
+    "latitude": -25.9281649664,
+    "longitude": -68.2242500608,
+    "city": "Beijing",
+    "temperature": 87,
+    "speed": 62
+  },
+  {
+    "vehicleId": "BE83647151729421",
+    "latitude": 10.8698903552,
+    "longitude": -152.523587072,
+    "city": "Duluth",
+    "temperature": 40,
+    "speed": 61
+  },
+  {
+    "vehicleId": "IT908NVCKI35789825246350124",
+    "latitude": -6.244527616,
+    "longitude": -119.52947712,
+    "city": "Mexico city",
+    "temperature": 25,
+    "speed": 72
+  },
+  {
+    "vehicleId": "MT94SHIG31354223726473413267053",
+    "latitude": 37.8588848128,
+    "longitude": -109.2669006848,
+    "city": "Frederick",
+    "temperature": 9,
+    "speed": 167
+  },
+  {
+    "vehicleId": "IT504FDGTI70372383134842844",
+    "latitude": 26.0607963136,
+    "longitude": 76.3380773888,
+    "city": "Rạch Giá",
+    "temperature": 24,
+    "speed": 83
+  },
+  {
+    "vehicleId": "AT806126159182454772",
+    "latitude": -65.2823025664,
+    "longitude": 175.2552114176,
+    "city": "Galway",
+    "temperature": 7,
+    "speed": 23
+  },
+  {
+    "vehicleId": "CZ3104011781335809283914",
+    "latitude": 18.5379969024,
+    "longitude": 16.2702768128,
+    "city": "Gansu",
+    "temperature": 95,
+    "speed": 72
+  },
+  {
+    "vehicleId": "MD3043381873868788070116",
+    "latitude": -10.2913703936,
+    "longitude": -48.1713729536,
+    "city": "Cartagena",
+    "temperature": 33,
+    "speed": 56
+  },
+  {
+    "vehicleId": "FR1055768626241402645944061",
+    "latitude": -0.0708891648,
+    "longitude": -135.1852123136,
+    "city": "Inner Mongolia",
+    "temperature": 69,
+    "speed": 155
+  },
+  {
+    "vehicleId": "AD4873658941840686375164",
+    "latitude": 29.43917056,
+    "longitude": 141.6667838464,
+    "city": "Canberra",
+    "temperature": 85,
+    "speed": 196
+  },
+  {
+    "vehicleId": "IE21DXTN72266340638481",
+    "latitude": 32.3413441536,
+    "longitude": 0.476179456,
+    "city": "Miramichi",
+    "temperature": 45,
+    "speed": 175
+  },
+  {
+    "vehicleId": "GI86JTDT836639471650468",
+    "latitude": -2.7855637504,
+    "longitude": 31.4167105536,
+    "city": "Pontarlier",
+    "temperature": 54,
+    "speed": 112
+  },
+  {
+    "vehicleId": "AT471546806379141785",
+    "latitude": 46.190518272,
+    "longitude": 134.0279903232,
+    "city": "San Juan del Río",
+    "temperature": 38,
+    "speed": 186
+  },
+  {
+    "vehicleId": "FO3175688688095516",
+    "latitude": 40.5465170944,
+    "longitude": 25.9083346944,
+    "city": "Yopal",
+    "temperature": 12,
+    "speed": 94
+  },
+  {
+    "vehicleId": "IT624KDYII42516936937047346",
+    "latitude": -48.743568384,
+    "longitude": -107.54102016,
+    "city": "Temuka",
+    "temperature": 76,
+    "speed": 87
+  },
+  {
+    "vehicleId": "GI37WDGB113838183465521",
+    "latitude": 57.4095680512,
+    "longitude": 82.4815791104,
+    "city": "Amersfoort",
+    "temperature": 50,
+    "speed": 184
+  },
+  {
+    "vehicleId": "GE13868129215743794130",
+    "latitude": -34.7060004864,
+    "longitude": -10.5458214912,
+    "city": "Sint-Pauwels",
+    "temperature": 32,
+    "speed": 73
+  },
+  {
+    "vehicleId": "PS659523177481644654772215458",
+    "latitude": -66.2310341632,
+    "longitude": -41.6159864832,
+    "city": "Olsztyn",
+    "temperature": 32,
+    "speed": 41
+  },
+  {
+    "vehicleId": "IT635QFWZI40885259241843027",
+    "latitude": 22.7426624512,
+    "longitude": 163.6550135808,
+    "city": "Ulyanovsk",
+    "temperature": 16,
+    "speed": 160
+  },
+  {
+    "vehicleId": "AD8776071150188981223309",
+    "latitude": -42.290902528,
+    "longitude": 50.365751808,
+    "city": "Atlanta",
+    "temperature": 11,
+    "speed": 104
+  },
+  {
+    "vehicleId": "GI65FIIQ179954067458511",
+    "latitude": -41.6215186432,
+    "longitude": -166.597540864,
+    "city": "Pamplona",
+    "temperature": 25,
+    "speed": 196
+  },
+  {
+    "vehicleId": "LU869266723537351457",
+    "latitude": -36.3116168192,
+    "longitude": 32.602221568,
+    "city": "San Miguel",
+    "temperature": 29,
+    "speed": 44
+  },
+  {
+    "vehicleId": "TR246747444287633288340641",
+    "latitude": -42.0040020992,
+    "longitude": 168.3581461504,
+    "city": "Los Mochis",
+    "temperature": 29,
+    "speed": 139
+  },
+  {
+    "vehicleId": "PL11636090338765348286177414",
+    "latitude": 13.903737344,
+    "longitude": 99.5150027776,
+    "city": "Zaragoza",
+    "temperature": 55,
+    "speed": 43
+  },
+  {
+    "vehicleId": "PT17245867617640877425601",
+    "latitude": 22.390368256,
+    "longitude": 45.5254114304,
+    "city": "Montes Claros",
+    "temperature": 22,
+    "speed": 91
+  },
+  {
+    "vehicleId": "GB08QLYV43908642754584",
+    "latitude": 76.914356736,
+    "longitude": -90.7093285888,
+    "city": "Chancay",
+    "temperature": 11,
+    "speed": 103
+  },
+  {
+    "vehicleId": "BG48MNTI37333686771754",
+    "latitude": -89.8800984064,
+    "longitude": 4.748271104,
+    "city": "Te Puke",
+    "temperature": 19,
+    "speed": 43
+  },
+  {
+    "vehicleId": "ME64032226973545287574",
+    "latitude": -21.9729590272,
+    "longitude": 167.6951872512,
+    "city": "Bremerhaven",
+    "temperature": 15,
+    "speed": 195
+  },
+  {
+    "vehicleId": "AE432213310939202286432",
+    "latitude": 41.1726845952,
+    "longitude": -38.5746648064,
+    "city": "Aix-en-Provence",
+    "temperature": 67,
+    "speed": 135
+  },
+  {
+    "vehicleId": "FO4844278172021133",
+    "latitude": 68.8247590912,
+    "longitude": 109.6635225088,
+    "city": "Finspång",
+    "temperature": 21,
+    "speed": 58
+  },
+  {
+    "vehicleId": "CZ6366306596488844963138",
+    "latitude": 78.2217499648,
+    "longitude": 128.0632485888,
+    "city": "Linköping",
+    "temperature": 89,
+    "speed": 112
+  },
+  {
+    "vehicleId": "MC8241166174640141435097733",
+    "latitude": 62.1374900224,
+    "longitude": 37.7313251328,
+    "city": "Smolensk",
+    "temperature": 18,
+    "speed": 48
+  },
+  {
+    "vehicleId": "CH6335827857253246152",
+    "latitude": -14.0323480576,
+    "longitude": 71.3326521344,
+    "city": "Ilhéus",
+    "temperature": 60,
+    "speed": 127
+  },
+  {
+    "vehicleId": "AD4287233875353636424544",
+    "latitude": 64.4670872576,
+    "longitude": -160.6906960896,
+    "city": "St. Johann in Tirol",
+    "temperature": 20,
+    "speed": 139
+  },
+  {
+    "vehicleId": "BA094346577814256133",
+    "latitude": 39.7886702592,
+    "longitude": -68.4671840256,
+    "city": "Cork",
+    "temperature": 13,
+    "speed": 117
+  }
+]
